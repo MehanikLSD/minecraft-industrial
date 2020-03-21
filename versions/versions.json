@@ -1,0 +1,4184 @@
+{
+  "_notice": "Pretend that you are not reading this. And this file does not exist. It does not affect anything important. Just for indexing. Hvae fnu!",
+  "versions": [
+    {
+      "id": "20w12a",
+      "type": "snapshot",
+      "releaseTime": "2020-03-18T19:42:06+03:00",
+      "time": "2020-03-18T19:46:35+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w11a",
+      "type": "snapshot",
+      "releaseTime": "2020-03-11T19:28:27+03:00",
+      "time": "2020-03-18T19:28:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w10a",
+      "type": "snapshot",
+      "releaseTime": "2020-03-04T19:21:41+03:00",
+      "time": "2020-03-18T19:28:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w09a",
+      "type": "snapshot",
+      "releaseTime": "2020-02-26T19:43:08+03:00",
+      "time": "2020-03-18T19:28:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w08a",
+      "type": "snapshot",
+      "releaseTime": "2020-02-19T16:30:09+03:00",
+      "time": "2020-03-18T19:28:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w07a",
+      "type": "snapshot",
+      "releaseTime": "2020-02-14T16:20:49+03:00",
+      "time": "2020-03-18T19:28:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w06a",
+      "type": "snapshot",
+      "releaseTime": "2020-02-05T19:05:22+03:00",
+      "time": "2020-03-18T19:28:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15.2",
+      "type": "release",
+      "releaseTime": "2020-01-17T13:03:52+03:00",
+      "time": "2020-01-17T13:03:52+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15.2-forge-31.1.14",
+      "type": "release",
+      "releaseTime": "2020-01-17T13:03:52+03:00",
+      "time": "2020-02-17T22:05:31+03:00",
+      "hasRemote": false
+    },
+    {
+      "id": "1.15.2-forge-31.1.2",
+      "type": "release",
+      "releaseTime": "2020-01-17T13:03:52+03:00",
+      "time": "2020-02-14T21:32:28+03:00",
+      "hasRemote": false
+    },
+    {
+      "id": "fabric-loader-0.7.8+build.184-1.15.2",
+      "type": "release",
+      "releaseTime": "2020-01-17T13:03:52+03:00",
+      "time": "2020-02-24T18:14:34+03:00",
+      "hasRemote": false
+    },
+    {
+      "id": "Forge 1.15.2",
+      "type": "modified",
+      "releaseTime": "2020-01-17T13:03:52+03:00",
+      "time": "2020-02-04T16:22:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15.2-pre2",
+      "type": "snapshot",
+      "releaseTime": "2020-01-16T15:35:57+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15.2-pre1",
+      "type": "snapshot",
+      "releaseTime": "2020-01-14T19:19:31+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.15.1",
+      "type": "modified",
+      "releaseTime": "2019-12-16T13:29:47+03:00",
+      "time": "2020-01-31T15:27:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15.1",
+      "type": "release",
+      "releaseTime": "2019-12-16T13:29:47+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15.1-pre1",
+      "type": "snapshot",
+      "releaseTime": "2019-12-12T17:02:30+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.15",
+      "type": "modified",
+      "releaseTime": "2019-12-09T16:13:38+03:00",
+      "time": "2020-01-31T15:27:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15",
+      "type": "release",
+      "releaseTime": "2019-12-09T16:13:38+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre7",
+      "type": "snapshot",
+      "releaseTime": "2019-12-09T15:14:11+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre6",
+      "type": "snapshot",
+      "releaseTime": "2019-12-06T15:04:30+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre5",
+      "type": "snapshot",
+      "releaseTime": "2019-12-05T16:20:00+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre4",
+      "type": "snapshot",
+      "releaseTime": "2019-12-03T15:24:24+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre3",
+      "type": "snapshot",
+      "releaseTime": "2019-11-28T20:17:50+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre2",
+      "type": "snapshot",
+      "releaseTime": "2019-11-25T21:09:38+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.15-pre1",
+      "type": "snapshot",
+      "releaseTime": "2019-11-21T20:01:17+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w46b",
+      "type": "snapshot",
+      "releaseTime": "2019-11-14T16:29:24+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w46a",
+      "type": "snapshot",
+      "releaseTime": "2019-11-13T19:37:46+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w45b",
+      "type": "snapshot",
+      "releaseTime": "2019-11-08T15:42:44+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w45a",
+      "type": "snapshot",
+      "releaseTime": "2019-11-07T19:19:20+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w44a",
+      "type": "snapshot",
+      "releaseTime": "2019-10-30T18:31:44+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w42a",
+      "type": "snapshot",
+      "releaseTime": "2019-10-16T18:30:39+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w41a",
+      "type": "snapshot",
+      "releaseTime": "2019-10-09T18:21:35+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w40a",
+      "type": "snapshot",
+      "releaseTime": "2019-10-02T16:40:26+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w39a",
+      "type": "snapshot",
+      "releaseTime": "2019-09-27T13:13:33+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w38b",
+      "type": "snapshot",
+      "releaseTime": "2019-09-18T17:59:13+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w38a",
+      "type": "snapshot",
+      "releaseTime": "2019-09-18T13:03:22+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w37a",
+      "type": "snapshot",
+      "releaseTime": "2019-09-11T14:46:44+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w36a",
+      "type": "snapshot",
+      "releaseTime": "2019-09-04T14:19:34+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w35a",
+      "type": "snapshot",
+      "releaseTime": "2019-08-28T18:01:44+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w34a",
+      "type": "snapshot",
+      "releaseTime": "2019-08-22T15:06:21+03:00",
+      "time": "2020-03-18T19:49:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.14.4",
+      "type": "modified",
+      "releaseTime": "2019-07-19T12:25:47+03:00",
+      "time": "2020-02-05T01:47:19+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.14.4",
+      "type": "modified",
+      "releaseTime": "2019-07-19T12:25:47+03:00",
+      "time": "2019-12-05T13:40:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4",
+      "type": "release",
+      "releaseTime": "2019-07-19T12:25:47+03:00",
+      "time": "2019-09-04T17:37:30+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre7",
+      "type": "snapshot",
+      "releaseTime": "2019-07-18T14:32:36+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre6",
+      "type": "snapshot",
+      "releaseTime": "2019-07-15T15:39:49+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre5",
+      "type": "snapshot",
+      "releaseTime": "2019-07-11T13:52:33+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre4",
+      "type": "snapshot",
+      "releaseTime": "2019-07-10T15:53:29+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre3",
+      "type": "snapshot",
+      "releaseTime": "2019-07-08T14:21:42+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre2",
+      "type": "snapshot",
+      "releaseTime": "2019-07-04T17:41:05+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.4-pre1",
+      "type": "snapshot",
+      "releaseTime": "2019-07-03T16:01:01+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.14.3",
+      "type": "modified",
+      "releaseTime": "2019-06-24T15:52:52+03:00",
+      "time": "2019-07-29T15:45:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.14.3",
+      "type": "modified",
+      "releaseTime": "2019-06-24T15:52:52+03:00",
+      "time": "2019-07-25T23:25:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.3",
+      "type": "release",
+      "releaseTime": "2019-06-24T15:52:52+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.3-pre4",
+      "type": "snapshot",
+      "releaseTime": "2019-06-19T14:44:29+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.3-pre3",
+      "type": "snapshot",
+      "releaseTime": "2019-06-14T11:03:33+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.3-pre2",
+      "type": "snapshot",
+      "releaseTime": "2019-06-07T12:11:29+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.3-pre1",
+      "type": "snapshot",
+      "releaseTime": "2019-06-03T17:34:20+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.14.2",
+      "type": "modified",
+      "releaseTime": "2019-05-27T14:48:25+03:00",
+      "time": "2019-07-29T15:45:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.2",
+      "type": "release",
+      "releaseTime": "2019-05-27T14:48:25+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.2 Pre-Release 4",
+      "type": "snapshot",
+      "releaseTime": "2019-05-27T10:21:11+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.2 Pre-Release 3",
+      "type": "snapshot",
+      "releaseTime": "2019-05-22T16:12:51+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.2 Pre-Release 2",
+      "type": "snapshot",
+      "releaseTime": "2019-05-17T15:21:03+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.2 Pre-Release 1",
+      "type": "snapshot",
+      "releaseTime": "2019-05-16T18:40:25+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.1",
+      "type": "release",
+      "releaseTime": "2019-05-13T14:10:12+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.1 Pre-Release 2",
+      "type": "snapshot",
+      "releaseTime": "2019-05-09T17:01:04+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14.1 Pre-Release 1",
+      "type": "snapshot",
+      "releaseTime": "2019-05-07T17:44:42+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14",
+      "type": "release",
+      "releaseTime": "2019-04-23T17:52:44+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14 Pre-Release 5",
+      "type": "snapshot",
+      "releaseTime": "2019-04-18T14:05:19+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14 Pre-Release 4",
+      "type": "snapshot",
+      "releaseTime": "2019-04-17T18:31:12+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14 Pre-Release 3",
+      "type": "snapshot",
+      "releaseTime": "2019-04-16T16:57:10+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14 Pre-Release 2",
+      "type": "snapshot",
+      "releaseTime": "2019-04-12T14:38:53+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.14 Pre-Release 1",
+      "type": "snapshot",
+      "releaseTime": "2019-04-10T17:24:16+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w14b",
+      "type": "snapshot",
+      "releaseTime": "2019-04-05T13:33:58+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w14a",
+      "type": "snapshot",
+      "releaseTime": "2019-04-03T16:45:00+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "3D Shareware v1.34",
+      "type": "snapshot",
+      "releaseTime": "2019-04-01T14:18:08+03:00",
+      "time": "2019-06-28T10:12:23+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w13b",
+      "type": "snapshot",
+      "releaseTime": "2019-03-29T19:53:22+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w13a",
+      "type": "snapshot",
+      "releaseTime": "2019-03-27T18:15:31+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "McMir",
+      "type": "launcher",
+      "releaseTime": "2019-03-27T00:00:00+03:00",
+      "time": "2019-04-27T00:00:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w12b",
+      "type": "snapshot",
+      "releaseTime": "2019-03-21T18:20:01+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w12a",
+      "type": "snapshot",
+      "releaseTime": "2019-03-20T19:47:34+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w11b",
+      "type": "snapshot",
+      "releaseTime": "2019-03-14T17:26:23+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w11a",
+      "type": "snapshot",
+      "releaseTime": "2019-03-13T16:59:29+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w09a",
+      "type": "snapshot",
+      "releaseTime": "2019-02-27T17:44:30+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w08b",
+      "type": "snapshot",
+      "releaseTime": "2019-02-21T16:38:09+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w08a",
+      "type": "snapshot",
+      "releaseTime": "2019-02-20T17:56:58+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w07a",
+      "type": "snapshot",
+      "releaseTime": "2019-02-13T19:12:08+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w06a",
+      "type": "snapshot",
+      "releaseTime": "2019-02-06T19:24:13+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w05a",
+      "type": "snapshot",
+      "releaseTime": "2019-01-30T18:16:49+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w04b",
+      "type": "snapshot",
+      "releaseTime": "2019-01-25T15:20:15+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w04a",
+      "type": "snapshot",
+      "releaseTime": "2019-01-24T18:31:52+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w03c",
+      "type": "snapshot",
+      "releaseTime": "2019-01-18T14:27:13+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w03b",
+      "type": "snapshot",
+      "releaseTime": "2019-01-17T19:43:27+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w03a",
+      "type": "snapshot",
+      "releaseTime": "2019-01-16T19:45:02+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "19w02a",
+      "type": "snapshot",
+      "releaseTime": "2019-01-09T18:52:07+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w50a",
+      "type": "snapshot",
+      "releaseTime": "2018-12-12T17:58:13+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w49a",
+      "type": "snapshot",
+      "releaseTime": "2018-12-05T15:24:30+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w48b",
+      "type": "snapshot",
+      "releaseTime": "2018-11-30T13:37:31+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w48a",
+      "type": "snapshot",
+      "releaseTime": "2018-11-29T16:11:38+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w47b",
+      "type": "snapshot",
+      "releaseTime": "2018-11-23T13:46:41+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w47a",
+      "type": "snapshot",
+      "releaseTime": "2018-11-21T18:45:22+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w46a",
+      "type": "snapshot",
+      "releaseTime": "2018-11-15T16:43:14+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w45a",
+      "type": "snapshot",
+      "releaseTime": "2018-11-07T17:40:06+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w44a",
+      "type": "snapshot",
+      "releaseTime": "2018-10-31T18:29:16+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w43c",
+      "type": "snapshot",
+      "releaseTime": "2018-10-26T11:40:46+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w43b",
+      "type": "snapshot",
+      "releaseTime": "2018-10-24T18:02:30+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w43a",
+      "type": "snapshot",
+      "releaseTime": "2018-10-24T13:52:16+03:00",
+      "time": "2019-08-22T15:46:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.13.2",
+      "type": "modified",
+      "releaseTime": "2018-10-22T14:41:07+03:00",
+      "time": "2019-12-05T13:40:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.13.2",
+      "type": "modified",
+      "releaseTime": "2018-10-22T14:41:07+03:00",
+      "time": "2019-07-29T15:45:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13.2",
+      "type": "release",
+      "releaseTime": "2018-10-22T14:41:07+03:00",
+      "time": "2019-06-28T10:06:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13.2-pre2",
+      "type": "snapshot",
+      "releaseTime": "2018-10-18T17:46:12+03:00",
+      "time": "2019-06-28T10:07:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13.2-pre1",
+      "type": "snapshot",
+      "releaseTime": "2018-10-16T16:40:58+03:00",
+      "time": "2019-06-28T10:07:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.13.1",
+      "type": "modified",
+      "releaseTime": "2018-09-04T20:12:52+03:00",
+      "time": "2018-10-25T12:56:31+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13.1",
+      "type": "release",
+      "releaseTime": "2018-08-22T17:03:42+03:00",
+      "time": "2019-06-28T10:06:01+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13.1-pre2",
+      "type": "snapshot",
+      "releaseTime": "2018-08-20T16:52:09+03:00",
+      "time": "2019-06-28T10:07:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13.1-pre1",
+      "type": "snapshot",
+      "releaseTime": "2018-08-16T16:08:44+03:00",
+      "time": "2019-06-28T10:07:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w33a",
+      "type": "snapshot",
+      "releaseTime": "2018-08-15T17:28:56+03:00",
+      "time": "2019-06-28T10:11:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w32a",
+      "type": "snapshot",
+      "releaseTime": "2018-08-08T16:16:57+03:00",
+      "time": "2019-06-28T10:11:04+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w31a",
+      "type": "snapshot",
+      "releaseTime": "2018-08-01T15:54:44+03:00",
+      "time": "2019-06-28T10:11:02+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w30b",
+      "type": "snapshot",
+      "releaseTime": "2018-07-26T19:06:57+03:00",
+      "time": "2019-06-28T10:11:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w30a",
+      "type": "snapshot",
+      "releaseTime": "2018-07-25T17:29:31+03:00",
+      "time": "2019-06-28T10:10:58+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "300miners",
+      "type": "launcher",
+      "releaseTime": "2018-07-23T00:00:00+03:00",
+      "time": "2018-07-23T00:00:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Rift 1.13",
+      "type": "modified",
+      "releaseTime": "2018-07-18T18:11:46+03:00",
+      "time": "2020-02-05T16:24:21+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.13",
+      "type": "modified",
+      "releaseTime": "2018-07-18T18:11:46+03:00",
+      "time": "2018-10-25T12:56:31+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13",
+      "type": "release",
+      "releaseTime": "2018-07-18T18:11:46+03:00",
+      "time": "2019-06-28T10:06:04+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre10",
+      "type": "snapshot",
+      "releaseTime": "2018-07-17T17:48:06+03:00",
+      "time": "2019-06-28T10:06:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre9",
+      "type": "snapshot",
+      "releaseTime": "2018-07-16T17:17:42+03:00",
+      "time": "2019-06-28T10:07:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre8",
+      "type": "snapshot",
+      "releaseTime": "2018-07-13T14:45:00+03:00",
+      "time": "2019-06-28T10:07:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre7",
+      "type": "snapshot",
+      "releaseTime": "2018-07-10T17:21:42+03:00",
+      "time": "2019-06-28T10:07:04+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre6",
+      "type": "snapshot",
+      "releaseTime": "2018-07-04T15:36:00+03:00",
+      "time": "2019-06-28T10:07:02+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre5",
+      "type": "snapshot",
+      "releaseTime": "2018-06-28T16:58:53+03:00",
+      "time": "2019-06-28T10:06:59+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre4",
+      "type": "snapshot",
+      "releaseTime": "2018-06-26T16:00:55+03:00",
+      "time": "2019-06-28T10:06:57+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre3",
+      "type": "snapshot",
+      "releaseTime": "2018-06-21T15:57:11+03:00",
+      "time": "2019-06-28T10:06:55+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre2",
+      "type": "snapshot",
+      "releaseTime": "2018-06-15T12:20:00+03:00",
+      "time": "2019-06-28T10:06:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.13-pre1",
+      "type": "snapshot",
+      "releaseTime": "2018-06-04T18:17:34+03:00",
+      "time": "2019-06-28T10:06:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w22c",
+      "type": "snapshot",
+      "releaseTime": "2018-05-31T16:53:15+03:00",
+      "time": "2019-06-28T10:10:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w22b",
+      "type": "snapshot",
+      "releaseTime": "2018-05-30T16:48:58+03:00",
+      "time": "2019-06-28T10:10:54+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w22a",
+      "type": "snapshot",
+      "releaseTime": "2018-05-29T16:23:55+03:00",
+      "time": "2019-06-28T10:10:52+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w21b",
+      "type": "snapshot",
+      "releaseTime": "2018-05-25T13:09:09+03:00",
+      "time": "2019-06-28T10:10:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w21a",
+      "type": "snapshot",
+      "releaseTime": "2018-05-23T16:11:49+03:00",
+      "time": "2019-06-28T10:10:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w20c",
+      "type": "snapshot",
+      "releaseTime": "2018-05-17T17:06:56+03:00",
+      "time": "2019-06-28T10:10:46+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w20b",
+      "type": "snapshot",
+      "releaseTime": "2018-05-16T17:35:35+03:00",
+      "time": "2019-06-28T10:10:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w20a",
+      "type": "snapshot",
+      "releaseTime": "2018-05-15T17:02:25+03:00",
+      "time": "2019-06-28T10:10:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w19b",
+      "type": "snapshot",
+      "releaseTime": "2018-05-09T13:00:51+03:00",
+      "time": "2019-06-28T10:10:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w19a",
+      "type": "snapshot",
+      "releaseTime": "2018-05-08T16:05:19+03:00",
+      "time": "2019-06-28T10:10:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w16a",
+      "type": "snapshot",
+      "releaseTime": "2018-04-19T17:46:35+03:00",
+      "time": "2019-06-28T10:10:37+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w15a",
+      "type": "snapshot",
+      "releaseTime": "2018-04-11T17:54:22+03:00",
+      "time": "2019-06-28T10:10:35+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w14b",
+      "type": "snapshot",
+      "releaseTime": "2018-04-05T17:44:02+03:00",
+      "time": "2019-06-28T10:10:33+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w14a",
+      "type": "snapshot",
+      "releaseTime": "2018-04-04T17:36:14+03:00",
+      "time": "2019-06-28T10:10:32+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w11a",
+      "type": "snapshot",
+      "releaseTime": "2018-03-13T18:10:59+03:00",
+      "time": "2019-06-28T10:10:28+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w10d",
+      "type": "snapshot",
+      "releaseTime": "2018-03-09T18:19:12+03:00",
+      "time": "2019-06-28T10:10:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w10c",
+      "type": "snapshot",
+      "releaseTime": "2018-03-08T18:29:23+03:00",
+      "time": "2019-06-28T10:10:24+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w10b",
+      "type": "snapshot",
+      "releaseTime": "2018-03-07T18:56:01+03:00",
+      "time": "2019-06-28T10:10:22+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w10a",
+      "type": "snapshot",
+      "releaseTime": "2018-03-06T18:54:24+03:00",
+      "time": "2019-06-28T10:10:20+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w09a",
+      "type": "snapshot",
+      "releaseTime": "2018-03-01T17:15:10+03:00",
+      "time": "2019-06-28T10:10:19+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w08b",
+      "type": "snapshot",
+      "releaseTime": "2018-02-22T18:44:49+03:00",
+      "time": "2019-06-28T10:10:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w08a",
+      "type": "snapshot",
+      "releaseTime": "2018-02-21T17:59:00+03:00",
+      "time": "2019-06-28T10:10:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w07c",
+      "type": "snapshot",
+      "releaseTime": "2018-02-16T16:23:32+03:00",
+      "time": "2019-06-28T10:10:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w07b",
+      "type": "snapshot",
+      "releaseTime": "2018-02-15T17:28:42+03:00",
+      "time": "2019-06-28T10:10:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w07a",
+      "type": "snapshot",
+      "releaseTime": "2018-02-14T20:34:13+03:00",
+      "time": "2019-06-28T10:10:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w06a",
+      "type": "snapshot",
+      "releaseTime": "2018-02-09T15:09:55+03:00",
+      "time": "2019-06-28T10:10:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w05a",
+      "type": "snapshot",
+      "releaseTime": "2018-01-31T16:32:09+03:00",
+      "time": "2019-06-28T10:10:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w03b",
+      "type": "snapshot",
+      "releaseTime": "2018-01-17T18:09:14+03:00",
+      "time": "2019-06-28T10:10:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w03a",
+      "type": "snapshot",
+      "releaseTime": "2018-01-17T17:25:24+03:00",
+      "time": "2019-06-28T10:09:59+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w02a",
+      "type": "snapshot",
+      "releaseTime": "2018-01-10T14:54:55+03:00",
+      "time": "2019-06-28T10:09:57+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "18w01a",
+      "type": "snapshot",
+      "releaseTime": "2018-01-03T16:29:30+03:00",
+      "time": "2019-06-28T10:09:54+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w50a",
+      "type": "snapshot",
+      "releaseTime": "2017-12-11T18:28:08+03:00",
+      "time": "2019-06-28T10:09:52+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w49b",
+      "type": "snapshot",
+      "releaseTime": "2017-12-07T18:29:54+03:00",
+      "time": "2019-06-28T10:09:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w49a",
+      "type": "snapshot",
+      "releaseTime": "2017-12-06T17:24:30+03:00",
+      "time": "2019-06-28T10:09:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w48a",
+      "type": "snapshot",
+      "releaseTime": "2017-11-27T18:36:33+03:00",
+      "time": "2019-06-28T10:09:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w47b",
+      "type": "snapshot",
+      "releaseTime": "2017-11-23T18:30:12+03:00",
+      "time": "2019-06-28T10:09:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w47a",
+      "type": "snapshot",
+      "releaseTime": "2017-11-22T15:40:05+03:00",
+      "time": "2019-06-28T10:09:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w46a",
+      "type": "snapshot",
+      "releaseTime": "2017-11-15T18:21:55+03:00",
+      "time": "2019-06-28T10:09:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w45b",
+      "type": "snapshot",
+      "releaseTime": "2017-11-10T13:07:02+03:00",
+      "time": "2019-06-28T10:09:37+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w45a",
+      "type": "snapshot",
+      "releaseTime": "2017-11-08T18:48:00+03:00",
+      "time": "2019-06-28T10:09:35+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w43b",
+      "type": "snapshot",
+      "releaseTime": "2017-10-26T16:36:22+03:00",
+      "time": "2019-06-28T10:09:32+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w43a",
+      "type": "snapshot",
+      "releaseTime": "2017-10-25T17:43:50+03:00",
+      "time": "2019-06-28T10:09:31+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.12.2",
+      "type": "modified",
+      "releaseTime": "2017-09-18T11:39:46+03:00",
+      "time": "2019-12-05T13:40:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "BetterFoamFix 1.12.2",
+      "type": "modified",
+      "releaseTime": "2017-09-18T11:39:46+03:00",
+      "time": "2019-10-17T21:31:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.12.2",
+      "type": "modified",
+      "releaseTime": "2017-09-18T11:39:46+03:00",
+      "time": "2019-12-05T13:40:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.12.2",
+      "type": "modified",
+      "releaseTime": "2017-09-18T11:39:46+03:00",
+      "time": "2019-10-17T21:31:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12.2",
+      "type": "release",
+      "releaseTime": "2017-09-18T11:39:46+03:00",
+      "time": "2019-06-28T10:05:57+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12.2-pre2",
+      "type": "snapshot",
+      "releaseTime": "2017-09-15T11:21:17+03:00",
+      "time": "2019-06-28T10:06:46+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12.2-pre1",
+      "type": "snapshot",
+      "releaseTime": "2017-09-13T16:33:31+03:00",
+      "time": "2019-06-28T10:06:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.12.1",
+      "type": "modified",
+      "releaseTime": "2017-08-03T15:40:39+03:00",
+      "time": "2019-12-05T13:40:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.12.1",
+      "type": "modified",
+      "releaseTime": "2017-08-03T15:40:39+03:00",
+      "time": "2019-12-05T13:40:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.12.1",
+      "type": "modified",
+      "releaseTime": "2017-08-03T15:40:39+03:00",
+      "time": "2018-01-27T13:43:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12.1",
+      "type": "release",
+      "releaseTime": "2017-08-03T15:40:39+03:00",
+      "time": "2019-06-28T10:05:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12.1-pre1",
+      "type": "snapshot",
+      "releaseTime": "2017-08-02T13:53:55+03:00",
+      "time": "2019-06-28T10:06:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w31a",
+      "type": "snapshot",
+      "releaseTime": "2017-08-01T12:41:23+03:00",
+      "time": "2019-06-28T10:09:29+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.12",
+      "type": "modified",
+      "releaseTime": "2017-06-02T16:50:27+03:00",
+      "time": "2018-01-27T13:43:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.12",
+      "type": "modified",
+      "releaseTime": "2017-06-02T16:50:27+03:00",
+      "time": "2019-12-05T13:40:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "BetterFoamFix 1.12",
+      "type": "modified",
+      "releaseTime": "2017-06-02T16:50:27+03:00",
+      "time": "2018-10-26T19:14:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.12",
+      "type": "modified",
+      "releaseTime": "2017-06-02T16:50:27+03:00",
+      "time": "2019-12-05T13:40:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12",
+      "type": "release",
+      "releaseTime": "2017-06-02T16:50:27+03:00",
+      "time": "2019-06-28T10:05:59+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre7",
+      "type": "snapshot",
+      "releaseTime": "2017-05-31T13:56:41+03:00",
+      "time": "2019-06-28T10:06:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre6",
+      "type": "snapshot",
+      "releaseTime": "2017-05-29T14:45:12+03:00",
+      "time": "2019-06-28T10:06:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre5",
+      "type": "snapshot",
+      "releaseTime": "2017-05-19T10:43:28+03:00",
+      "time": "2019-06-28T10:06:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre4",
+      "type": "snapshot",
+      "releaseTime": "2017-05-18T15:28:16+03:00",
+      "time": "2019-06-28T10:06:37+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre3",
+      "type": "snapshot",
+      "releaseTime": "2017-05-17T17:09:18+03:00",
+      "time": "2019-06-28T10:06:35+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre2",
+      "type": "snapshot",
+      "releaseTime": "2017-05-11T15:11:12+03:00",
+      "time": "2019-06-28T10:06:33+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.12-pre1",
+      "type": "snapshot",
+      "releaseTime": "2017-05-10T14:37:17+03:00",
+      "time": "2019-06-28T10:06:32+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w18b",
+      "type": "snapshot",
+      "releaseTime": "2017-05-04T16:40:22+03:00",
+      "time": "2019-06-28T10:09:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w18a",
+      "type": "snapshot",
+      "releaseTime": "2017-05-03T17:50:23+03:00",
+      "time": "2019-06-28T10:09:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w17b",
+      "type": "snapshot",
+      "releaseTime": "2017-04-27T16:24:23+03:00",
+      "time": "2019-06-28T10:09:24+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w17a",
+      "type": "snapshot",
+      "releaseTime": "2017-04-26T16:48:23+03:00",
+      "time": "2019-06-28T10:09:22+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w16b",
+      "type": "snapshot",
+      "releaseTime": "2017-04-21T15:02:59+03:00",
+      "time": "2019-06-28T10:09:21+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w16a",
+      "type": "snapshot",
+      "releaseTime": "2017-04-20T16:58:35+03:00",
+      "time": "2019-06-28T10:09:19+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w15a",
+      "type": "snapshot",
+      "releaseTime": "2017-04-12T12:30:50+03:00",
+      "time": "2019-06-28T10:09:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w14a",
+      "type": "snapshot",
+      "releaseTime": "2017-04-05T16:58:01+03:00",
+      "time": "2019-06-28T10:09:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w13b",
+      "type": "snapshot",
+      "releaseTime": "2017-03-31T14:06:35+03:00",
+      "time": "2019-06-28T10:09:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w13a",
+      "type": "snapshot",
+      "releaseTime": "2017-03-30T12:32:19+03:00",
+      "time": "2019-06-28T10:09:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "17w06a",
+      "type": "snapshot",
+      "releaseTime": "2017-02-08T16:16:29+03:00",
+      "time": "2019-06-28T10:09:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.11.2",
+      "type": "modified",
+      "releaseTime": "2016-12-21T12:29:12+03:00",
+      "time": "2019-12-05T13:40:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.11.2",
+      "type": "modified",
+      "releaseTime": "2016-12-21T12:29:12+03:00",
+      "time": "2018-01-27T13:43:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "BetterFoamFix 1.11.2",
+      "type": "modified",
+      "releaseTime": "2016-12-21T12:29:12+03:00",
+      "time": "2018-10-26T19:14:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.11.2",
+      "type": "modified",
+      "releaseTime": "2016-12-21T12:29:12+03:00",
+      "time": "2019-12-05T13:40:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.11.2",
+      "type": "release",
+      "releaseTime": "2016-12-21T12:29:12+03:00",
+      "time": "2019-06-28T10:05:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.11.1",
+      "type": "release",
+      "releaseTime": "2016-12-20T17:05:34+03:00",
+      "time": "2019-06-28T10:05:52+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w50a",
+      "type": "snapshot",
+      "releaseTime": "2016-12-15T17:38:52+03:00",
+      "time": "2019-06-28T10:09:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.11",
+      "type": "modified",
+      "releaseTime": "2016-11-14T17:34:40+03:00",
+      "time": "2018-01-27T13:43:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.11",
+      "type": "modified",
+      "releaseTime": "2016-11-14T17:34:40+03:00",
+      "time": "2019-12-05T13:40:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.11",
+      "type": "modified",
+      "releaseTime": "2016-11-14T17:34:40+03:00",
+      "time": "2019-12-05T13:40:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.11",
+      "type": "release",
+      "releaseTime": "2016-11-14T17:34:40+03:00",
+      "time": "2019-06-28T10:05:55+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.11-pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-11-08T16:42:50+03:00",
+      "time": "2019-06-28T10:06:30+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w44a",
+      "type": "snapshot",
+      "releaseTime": "2016-11-03T17:17:11+03:00",
+      "time": "2019-06-28T10:09:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w43a",
+      "type": "snapshot",
+      "releaseTime": "2016-10-27T12:00:51+03:00",
+      "time": "2019-06-28T10:09:04+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w42a",
+      "type": "snapshot",
+      "releaseTime": "2016-10-19T14:17:47+03:00",
+      "time": "2019-06-28T10:09:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w41a",
+      "type": "snapshot",
+      "releaseTime": "2016-10-13T17:28:35+03:00",
+      "time": "2019-06-28T10:09:01+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w40a",
+      "type": "snapshot",
+      "releaseTime": "2016-10-06T16:57:59+03:00",
+      "time": "2019-06-28T10:08:59+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w39c",
+      "type": "snapshot",
+      "releaseTime": "2016-09-30T17:11:48+03:00",
+      "time": "2019-06-28T10:08:58+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w39b",
+      "type": "snapshot",
+      "releaseTime": "2016-09-29T17:39:39+03:00",
+      "time": "2019-06-28T10:08:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w39a",
+      "type": "snapshot",
+      "releaseTime": "2016-09-28T16:32:06+03:00",
+      "time": "2019-06-28T10:08:54+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w38a",
+      "type": "snapshot",
+      "releaseTime": "2016-09-20T15:40:49+03:00",
+      "time": "2019-06-28T10:08:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w36a",
+      "type": "snapshot",
+      "releaseTime": "2016-09-08T17:55:10+03:00",
+      "time": "2019-06-28T10:08:51+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w35a",
+      "type": "snapshot",
+      "releaseTime": "2016-09-01T16:13:38+03:00",
+      "time": "2019-06-28T10:08:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w33a",
+      "type": "snapshot",
+      "releaseTime": "2016-08-17T15:48:57+03:00",
+      "time": "2019-06-28T10:08:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w32b",
+      "type": "snapshot",
+      "releaseTime": "2016-08-11T17:34:29+03:00",
+      "time": "2019-06-28T10:08:46+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w32a",
+      "type": "snapshot",
+      "releaseTime": "2016-08-10T15:30:10+03:00",
+      "time": "2019-06-28T10:08:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.10.2",
+      "type": "modified",
+      "releaseTime": "2016-06-23T12:17:32+03:00",
+      "time": "2019-12-05T13:40:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.10.2",
+      "type": "modified",
+      "releaseTime": "2016-06-23T12:17:32+03:00",
+      "time": "2017-10-29T23:33:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "BetterFoamFix 1.10.2",
+      "type": "modified",
+      "releaseTime": "2016-06-23T12:17:32+03:00",
+      "time": "2018-10-26T19:14:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.10.2",
+      "type": "modified",
+      "releaseTime": "2016-06-23T12:17:32+03:00",
+      "time": "2019-12-05T13:40:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.10.2",
+      "type": "release",
+      "releaseTime": "2016-06-23T12:17:32+03:00",
+      "time": "2019-06-28T10:05:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.10.1",
+      "type": "release",
+      "releaseTime": "2016-06-22T13:13:22+03:00",
+      "time": "2019-06-28T10:05:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.10",
+      "type": "modified",
+      "releaseTime": "2016-06-08T16:06:18+03:00",
+      "time": "2017-06-05T14:50:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.10",
+      "type": "modified",
+      "releaseTime": "2016-06-08T16:06:18+03:00",
+      "time": "2019-12-05T13:40:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.10",
+      "type": "modified",
+      "releaseTime": "2016-06-08T16:06:18+03:00",
+      "time": "2019-12-05T13:40:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.10",
+      "type": "release",
+      "releaseTime": "2016-06-08T16:06:18+03:00",
+      "time": "2019-06-28T10:05:51+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.10-pre2",
+      "type": "snapshot",
+      "releaseTime": "2016-06-07T17:56:34+03:00",
+      "time": "2019-06-28T10:06:28+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.10-pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-06-02T17:45:16+03:00",
+      "time": "2019-06-28T10:06:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w21b",
+      "type": "snapshot",
+      "releaseTime": "2016-05-26T15:47:22+03:00",
+      "time": "2019-06-28T10:08:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w21a",
+      "type": "snapshot",
+      "releaseTime": "2016-05-25T16:12:09+03:00",
+      "time": "2019-06-28T10:08:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w20a",
+      "type": "snapshot",
+      "releaseTime": "2016-05-18T15:45:14+03:00",
+      "time": "2019-06-28T10:08:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.9.4",
+      "type": "modified",
+      "releaseTime": "2016-05-10T13:17:16+03:00",
+      "time": "2017-06-05T14:50:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.9.4",
+      "type": "modified",
+      "releaseTime": "2016-05-10T13:17:16+03:00",
+      "time": "2019-12-05T13:40:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.9.4",
+      "type": "modified",
+      "releaseTime": "2016-05-10T13:17:16+03:00",
+      "time": "2019-12-05T13:40:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.4",
+      "type": "release",
+      "releaseTime": "2016-05-10T13:17:16+03:00",
+      "time": "2019-06-28T10:06:24+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.3",
+      "type": "release",
+      "releaseTime": "2016-05-10T11:33:35+03:00",
+      "time": "2019-06-28T10:06:23+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.3-pre3",
+      "type": "snapshot",
+      "releaseTime": "2016-05-03T12:28:11+03:00",
+      "time": "2019-06-28T10:08:04+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.3-pre2",
+      "type": "snapshot",
+      "releaseTime": "2016-04-27T16:33:20+03:00",
+      "time": "2019-06-28T10:08:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.3-pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-04-21T15:41:42+03:00",
+      "time": "2019-06-28T10:08:01+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w15b",
+      "type": "snapshot",
+      "releaseTime": "2016-04-13T16:56:41+03:00",
+      "time": "2019-06-28T10:08:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w15a",
+      "type": "snapshot",
+      "releaseTime": "2016-04-11T17:38:28+03:00",
+      "time": "2019-06-28T10:08:37+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w14a",
+      "type": "snapshot",
+      "releaseTime": "2016-04-07T15:47:51+03:00",
+      "time": "2019-06-28T10:08:35+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.RV-Pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-03-31T19:18:53+03:00",
+      "time": "2019-06-28T10:08:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.9.2",
+      "type": "modified",
+      "releaseTime": "2016-03-30T18:23:55+03:00",
+      "time": "2017-07-07T15:43:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.2",
+      "type": "release",
+      "releaseTime": "2016-03-30T18:23:55+03:00",
+      "time": "2019-06-28T10:06:22+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.1",
+      "type": "release",
+      "releaseTime": "2016-03-30T16:43:07+03:00",
+      "time": "2019-06-28T10:06:20+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.1-pre3",
+      "type": "snapshot",
+      "releaseTime": "2016-03-11T12:20:36+03:00",
+      "time": "2019-06-28T10:08:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.1-pre2",
+      "type": "snapshot",
+      "releaseTime": "2016-03-10T18:06:03+03:00",
+      "time": "2019-06-28T10:07:58+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9.1-pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-03-09T19:27:29+03:00",
+      "time": "2019-06-28T10:07:57+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.9",
+      "type": "modified",
+      "releaseTime": "2016-02-29T16:49:54+03:00",
+      "time": "2019-12-05T13:40:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.9",
+      "type": "modified",
+      "releaseTime": "2016-02-29T16:49:54+03:00",
+      "time": "2016-10-10T18:42:23+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.9",
+      "type": "modified",
+      "releaseTime": "2016-02-29T16:49:54+03:00",
+      "time": "2019-12-05T13:40:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9",
+      "type": "release",
+      "releaseTime": "2016-02-29T16:49:54+03:00",
+      "time": "2019-06-28T10:06:25+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9-pre4",
+      "type": "snapshot",
+      "releaseTime": "2016-02-26T18:21:11+03:00",
+      "time": "2019-06-28T10:07:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9-pre3",
+      "type": "snapshot",
+      "releaseTime": "2016-02-24T18:52:36+03:00",
+      "time": "2019-06-28T10:07:55+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9-pre2",
+      "type": "snapshot",
+      "releaseTime": "2016-02-18T20:41:00+03:00",
+      "time": "2019-06-28T10:07:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.9-pre1",
+      "type": "snapshot",
+      "releaseTime": "2016-02-17T18:23:19+03:00",
+      "time": "2019-06-28T10:07:52+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w07b",
+      "type": "snapshot",
+      "releaseTime": "2016-02-16T18:22:39+03:00",
+      "time": "2019-06-28T10:08:34+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w07a",
+      "type": "snapshot",
+      "releaseTime": "2016-02-15T18:48:46+03:00",
+      "time": "2019-06-28T10:08:32+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w06a",
+      "type": "snapshot",
+      "releaseTime": "2016-02-10T18:06:41+03:00",
+      "time": "2019-06-28T10:08:31+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w05b",
+      "type": "snapshot",
+      "releaseTime": "2016-02-04T18:28:02+03:00",
+      "time": "2019-06-28T10:08:29+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w05a",
+      "type": "snapshot",
+      "releaseTime": "2016-02-03T18:48:38+03:00",
+      "time": "2019-06-28T10:08:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w04a",
+      "type": "snapshot",
+      "releaseTime": "2016-01-28T18:37:24+03:00",
+      "time": "2019-06-28T12:31:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w03a",
+      "type": "snapshot",
+      "releaseTime": "2016-01-20T17:29:24+03:00",
+      "time": "2019-06-28T12:31:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "16w02a",
+      "type": "snapshot",
+      "releaseTime": "2016-01-13T18:15:16+03:00",
+      "time": "2019-06-28T12:31:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w51b",
+      "type": "snapshot",
+      "releaseTime": "2015-12-17T18:30:41+03:00",
+      "time": "2019-06-28T12:31:05+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w51a",
+      "type": "snapshot",
+      "releaseTime": "2015-12-17T17:02:37+03:00",
+      "time": "2019-06-28T12:31:04+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w50a",
+      "type": "snapshot",
+      "releaseTime": "2015-12-09T18:35:57+03:00",
+      "time": "2019-06-28T12:31:02+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w49b",
+      "type": "snapshot",
+      "releaseTime": "2015-12-03T18:23:22+03:00",
+      "time": "2019-06-28T12:31:01+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.8.9",
+      "type": "modified",
+      "releaseTime": "2015-12-03T12:24:39+03:00",
+      "time": "2020-02-15T19:48:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.8.9",
+      "type": "modified",
+      "releaseTime": "2015-12-03T12:24:39+03:00",
+      "time": "2020-02-15T19:48:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8.9",
+      "type": "modified",
+      "releaseTime": "2015-12-03T12:24:39+03:00",
+      "time": "2019-12-05T13:40:05+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "BetterFoamFix 1.8.9",
+      "type": "modified",
+      "releaseTime": "2015-12-03T12:24:39+03:00",
+      "time": "2020-02-15T19:48:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.9",
+      "type": "release",
+      "releaseTime": "2015-12-03T12:24:39+03:00",
+      "time": "2019-06-28T12:30:03+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w49a",
+      "type": "snapshot",
+      "releaseTime": "2015-12-02T18:09:37+03:00",
+      "time": "2019-06-28T12:31:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w47c",
+      "type": "snapshot",
+      "releaseTime": "2015-11-20T15:46:56+03:00",
+      "time": "2019-06-28T12:30:58+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w47b",
+      "type": "snapshot",
+      "releaseTime": "2015-11-19T17:48:03+03:00",
+      "time": "2019-06-28T12:30:57+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w47a",
+      "type": "snapshot",
+      "releaseTime": "2015-11-18T18:53:41+03:00",
+      "time": "2019-06-28T12:30:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w46a",
+      "type": "snapshot",
+      "releaseTime": "2015-11-12T15:11:47+03:00",
+      "time": "2019-06-28T12:30:52+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w45a",
+      "type": "snapshot",
+      "releaseTime": "2015-11-05T16:04:07+03:00",
+      "time": "2019-06-28T12:30:51+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w44b",
+      "type": "snapshot",
+      "releaseTime": "2015-10-30T14:23:17+03:00",
+      "time": "2019-06-28T12:30:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w44a",
+      "type": "snapshot",
+      "releaseTime": "2015-10-28T18:09:36+03:00",
+      "time": "2019-06-28T12:30:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w43c",
+      "type": "snapshot",
+      "releaseTime": "2015-10-23T18:35:55+03:00",
+      "time": "2019-06-28T12:30:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w43b",
+      "type": "snapshot",
+      "releaseTime": "2015-10-22T17:11:58+03:00",
+      "time": "2019-06-28T12:30:46+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w43a",
+      "type": "snapshot",
+      "releaseTime": "2015-10-21T18:28:52+03:00",
+      "time": "2019-06-28T12:30:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w42a",
+      "type": "snapshot",
+      "releaseTime": "2015-10-14T16:25:14+03:00",
+      "time": "2019-06-28T12:30:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w41b",
+      "type": "snapshot",
+      "releaseTime": "2015-10-07T17:07:26+03:00",
+      "time": "2019-06-28T12:30:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w41a",
+      "type": "snapshot",
+      "releaseTime": "2015-10-07T16:19:53+03:00",
+      "time": "2019-06-28T12:30:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w40b",
+      "type": "snapshot",
+      "releaseTime": "2015-09-30T17:13:54+03:00",
+      "time": "2019-06-28T12:30:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w40a",
+      "type": "snapshot",
+      "releaseTime": "2015-09-30T16:13:54+03:00",
+      "time": "2019-06-28T12:30:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w39c",
+      "type": "snapshot",
+      "releaseTime": "2015-09-23T16:13:54+03:00",
+      "time": "2019-06-28T12:30:37+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w39b",
+      "type": "snapshot",
+      "releaseTime": "2015-09-21T18:09:52+03:00",
+      "time": "2019-06-28T10:08:20+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w39a",
+      "type": "snapshot",
+      "releaseTime": "2015-09-21T16:16:32+03:00",
+      "time": "2019-06-28T10:08:20+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w38b",
+      "type": "snapshot",
+      "releaseTime": "2015-09-17T17:22:31+03:00",
+      "time": "2019-06-28T12:30:36+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w38a",
+      "type": "snapshot",
+      "releaseTime": "2015-09-16T17:22:31+03:00",
+      "time": "2019-06-28T12:30:35+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w37a",
+      "type": "snapshot",
+      "releaseTime": "2015-09-10T17:22:31+03:00",
+      "time": "2019-06-28T12:30:34+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w36d",
+      "type": "snapshot",
+      "releaseTime": "2015-09-04T17:22:31+03:00",
+      "time": "2019-06-28T12:30:32+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w36c",
+      "type": "snapshot",
+      "releaseTime": "2015-09-02T19:07:22+03:00",
+      "time": "2019-06-28T12:30:31+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w36b",
+      "type": "snapshot",
+      "releaseTime": "2015-09-02T18:36:25+03:00",
+      "time": "2019-06-28T12:30:30+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w36a",
+      "type": "snapshot",
+      "releaseTime": "2015-09-02T17:46:40+03:00",
+      "time": "2019-06-28T12:30:29+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w35e",
+      "type": "snapshot",
+      "releaseTime": "2015-08-28T21:14:02+03:00",
+      "time": "2019-06-28T12:30:28+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w35d",
+      "type": "snapshot",
+      "releaseTime": "2015-08-28T19:25:35+03:00",
+      "time": "2019-06-28T12:30:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w35c",
+      "type": "snapshot",
+      "releaseTime": "2015-08-28T14:21:00+03:00",
+      "time": "2019-06-28T12:30:25+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w35b",
+      "type": "snapshot",
+      "releaseTime": "2015-08-24T18:39:18+03:00",
+      "time": "2019-06-28T12:30:24+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w35a",
+      "type": "snapshot",
+      "releaseTime": "2015-08-24T17:19:31+03:00",
+      "time": "2019-06-28T12:30:23+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w34d",
+      "type": "snapshot",
+      "releaseTime": "2015-08-21T18:27:55+03:00",
+      "time": "2019-06-28T12:30:22+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w34c",
+      "type": "snapshot",
+      "releaseTime": "2015-08-21T15:45:20+03:00",
+      "time": "2019-06-28T12:30:21+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w34b",
+      "type": "snapshot",
+      "releaseTime": "2015-08-20T17:00:03+03:00",
+      "time": "2019-06-28T12:30:19+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w34a",
+      "type": "snapshot",
+      "releaseTime": "2015-08-19T15:56:01+03:00",
+      "time": "2019-06-28T12:30:18+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w33c",
+      "type": "snapshot",
+      "releaseTime": "2015-08-14T16:10:46+03:00",
+      "time": "2019-06-28T12:30:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w33b",
+      "type": "snapshot",
+      "releaseTime": "2015-08-12T18:29:11+03:00",
+      "time": "2019-06-28T12:30:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w33a",
+      "type": "snapshot",
+      "releaseTime": "2015-08-12T17:05:07+03:00",
+      "time": "2019-06-28T10:08:18+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w32c",
+      "type": "snapshot",
+      "releaseTime": "2015-08-07T17:08:17+03:00",
+      "time": "2019-06-28T12:30:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w32b",
+      "type": "snapshot",
+      "releaseTime": "2015-08-06T16:51:47+03:00",
+      "time": "2019-06-28T12:30:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w32a",
+      "type": "snapshot",
+      "releaseTime": "2015-08-05T15:22:42+03:00",
+      "time": "2019-06-28T12:30:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w31c",
+      "type": "snapshot",
+      "releaseTime": "2015-07-31T16:45:08+03:00",
+      "time": "2019-06-28T12:30:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w31b",
+      "type": "snapshot",
+      "releaseTime": "2015-07-30T16:38:32+03:00",
+      "time": "2019-06-28T12:30:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w31a",
+      "type": "snapshot",
+      "releaseTime": "2015-07-29T16:24:33+03:00",
+      "time": "2019-06-28T12:30:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.8.8",
+      "type": "modified",
+      "releaseTime": "2015-07-27T13:31:28+03:00",
+      "time": "2018-12-26T03:10:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.8.8",
+      "type": "modified",
+      "releaseTime": "2015-07-27T13:31:28+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8.8",
+      "type": "modified",
+      "releaseTime": "2015-07-27T13:31:28+03:00",
+      "time": "2018-04-06T19:58:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.8",
+      "type": "release",
+      "releaseTime": "2015-07-27T13:31:28+03:00",
+      "time": "2019-06-28T12:30:02+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8.7",
+      "type": "modified",
+      "releaseTime": "2015-06-05T13:10:44+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.7",
+      "type": "release",
+      "releaseTime": "2015-06-05T13:10:44+03:00",
+      "time": "2019-06-28T12:30:00+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.6",
+      "type": "release",
+      "releaseTime": "2015-05-25T13:31:19+03:00",
+      "time": "2019-06-28T12:29:59+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.5",
+      "type": "release",
+      "releaseTime": "2015-05-22T14:15:28+03:00",
+      "time": "2019-06-28T12:29:58+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8.4",
+      "type": "modified",
+      "releaseTime": "2015-04-17T14:37:50+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.4",
+      "type": "release",
+      "releaseTime": "2015-04-17T14:37:50+03:00",
+      "time": "2019-06-28T12:29:57+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "15w14a",
+      "type": "snapshot",
+      "releaseTime": "2015-04-01T10:08:00+03:00",
+      "time": "2019-06-28T10:08:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8.3",
+      "type": "modified",
+      "releaseTime": "2015-02-20T17:00:09+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.3",
+      "type": "release",
+      "releaseTime": "2015-02-20T17:00:09+03:00",
+      "time": "2019-06-28T12:29:56+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2",
+      "type": "release",
+      "releaseTime": "2015-02-19T18:47:29+03:00",
+      "time": "2019-06-28T12:29:54+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre7",
+      "type": "snapshot",
+      "releaseTime": "2015-02-16T16:01:35+03:00",
+      "time": "2019-06-28T10:07:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre6",
+      "type": "snapshot",
+      "releaseTime": "2015-01-30T14:58:24+03:00",
+      "time": "2019-06-28T10:07:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre5",
+      "type": "snapshot",
+      "releaseTime": "2015-01-26T18:03:24+03:00",
+      "time": "2019-06-28T10:07:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre4",
+      "type": "snapshot",
+      "releaseTime": "2015-01-16T17:19:59+03:00",
+      "time": "2019-06-28T10:07:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre3",
+      "type": "snapshot",
+      "releaseTime": "2015-01-15T19:44:33+03:00",
+      "time": "2019-06-28T10:07:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre2",
+      "type": "snapshot",
+      "releaseTime": "2015-01-15T18:07:31+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.2-pre1",
+      "type": "snapshot",
+      "releaseTime": "2014-12-18T14:29:41+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8.1",
+      "type": "modified",
+      "releaseTime": "2014-11-24T17:13:31+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.1",
+      "type": "release",
+      "releaseTime": "2014-11-24T17:13:31+03:00",
+      "time": "2019-06-28T12:29:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.1-pre5",
+      "type": "snapshot",
+      "releaseTime": "2014-11-19T17:30:48+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.1-pre4",
+      "type": "snapshot",
+      "releaseTime": "2014-11-06T17:10:50+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.1-pre3",
+      "type": "snapshot",
+      "releaseTime": "2014-10-23T15:59:42+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.1-pre2",
+      "type": "snapshot",
+      "releaseTime": "2014-10-16T17:19:27+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8.1-pre1",
+      "type": "snapshot",
+      "releaseTime": "2014-10-15T16:25:11+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.8",
+      "type": "modified",
+      "releaseTime": "2014-09-02T11:24:35+03:00",
+      "time": "2018-12-17T19:32:20+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.8",
+      "type": "modified",
+      "releaseTime": "2014-09-02T11:24:35+03:00",
+      "time": "2016-10-10T18:42:53+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.8",
+      "type": "modified",
+      "releaseTime": "2014-09-02T11:24:35+03:00",
+      "time": "2018-04-06T19:58:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8",
+      "type": "release",
+      "releaseTime": "2014-09-02T11:24:35+03:00",
+      "time": "2019-06-28T12:30:05+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8-pre3",
+      "type": "snapshot",
+      "releaseTime": "2014-08-28T12:40:54+03:00",
+      "time": "2019-06-28T10:07:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8-pre2",
+      "type": "snapshot",
+      "releaseTime": "2014-08-25T17:52:18+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.8-pre1",
+      "type": "snapshot",
+      "releaseTime": "2014-08-21T16:56:26+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w34d",
+      "type": "snapshot",
+      "releaseTime": "2014-08-20T15:46:59+03:00",
+      "time": "2019-06-28T10:08:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w34c",
+      "type": "snapshot",
+      "releaseTime": "2014-08-19T18:31:24+03:00",
+      "time": "2019-06-28T10:08:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w34b",
+      "type": "snapshot",
+      "releaseTime": "2014-08-18T18:14:28+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w34a",
+      "type": "snapshot",
+      "releaseTime": "2014-08-18T17:14:11+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w33c",
+      "type": "snapshot",
+      "releaseTime": "2014-08-15T21:00:26+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w33b",
+      "type": "snapshot",
+      "releaseTime": "2014-08-15T19:23:51+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w33a",
+      "type": "snapshot",
+      "releaseTime": "2014-08-13T18:08:14+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w32d",
+      "type": "snapshot",
+      "releaseTime": "2014-08-08T18:13:41+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w32c",
+      "type": "snapshot",
+      "releaseTime": "2014-08-08T17:11:20+03:00",
+      "time": "2019-06-28T10:08:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w32b",
+      "type": "snapshot",
+      "releaseTime": "2014-08-07T17:45:17+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w32a",
+      "type": "snapshot",
+      "releaseTime": "2014-08-06T17:01:16+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w31a",
+      "type": "snapshot",
+      "releaseTime": "2014-07-30T18:38:05+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w30c",
+      "type": "snapshot",
+      "releaseTime": "2014-07-24T17:39:09+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w30b",
+      "type": "snapshot",
+      "releaseTime": "2014-07-23T18:03:03+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w30a",
+      "type": "snapshot",
+      "releaseTime": "2014-07-23T16:15:42+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w29b",
+      "type": "snapshot",
+      "releaseTime": "2014-07-16T20:27:40+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w29a",
+      "type": "snapshot",
+      "releaseTime": "2014-07-16T18:18:17+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w28b",
+      "type": "snapshot",
+      "releaseTime": "2014-07-10T17:28:48+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w28a",
+      "type": "snapshot",
+      "releaseTime": "2014-07-09T18:42:36+03:00",
+      "time": "2019-06-28T10:08:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w27b",
+      "type": "snapshot",
+      "releaseTime": "2014-07-02T21:34:56+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w27a",
+      "type": "snapshot",
+      "releaseTime": "2014-07-02T19:07:20+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w26c",
+      "type": "snapshot",
+      "releaseTime": "2014-06-26T18:05:03+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w26b",
+      "type": "snapshot",
+      "releaseTime": "2014-06-25T18:08:39+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w26a",
+      "type": "snapshot",
+      "releaseTime": "2014-06-25T16:59:27+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w25b",
+      "type": "snapshot",
+      "releaseTime": "2014-06-19T15:29:48+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w25a",
+      "type": "snapshot",
+      "releaseTime": "2014-06-18T18:52:28+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w21b",
+      "type": "snapshot",
+      "releaseTime": "2014-05-22T18:17:55+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w21a",
+      "type": "snapshot",
+      "releaseTime": "2014-05-22T17:44:33+03:00",
+      "time": "2019-06-28T10:08:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w20b",
+      "type": "snapshot",
+      "releaseTime": "2014-05-15T19:47:21+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w20a",
+      "type": "snapshot",
+      "releaseTime": "2014-05-15T17:01:20+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.7.10",
+      "type": "modified",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2018-04-06T19:58:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeLiteLoader 1.7.10",
+      "type": "modified",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.7.10",
+      "type": "modified",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "LiteLoader 1.7.10",
+      "type": "modified",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiForgeLiteLoader 1.7.10",
+      "type": "modified",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2018-04-06T19:58:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.7.10",
+      "type": "modified",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2018-04-06T19:58:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.10",
+      "type": "release",
+      "releaseTime": "2014-05-14T20:29:23+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.10-pre4",
+      "type": "snapshot",
+      "releaseTime": "2014-05-14T19:29:23+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.10-pre3",
+      "type": "snapshot",
+      "releaseTime": "2014-05-14T18:29:23+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.10-pre2",
+      "type": "snapshot",
+      "releaseTime": "2014-05-14T17:29:23+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.10-pre1",
+      "type": "snapshot",
+      "releaseTime": "2014-05-14T16:29:23+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w19a",
+      "type": "snapshot",
+      "releaseTime": "2014-05-08T17:24:19+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w18b",
+      "type": "snapshot",
+      "releaseTime": "2014-05-02T14:38:17+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w18a",
+      "type": "snapshot",
+      "releaseTime": "2014-04-30T13:25:35+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w17a",
+      "type": "snapshot",
+      "releaseTime": "2014-04-24T18:44:49+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w11b",
+      "type": "snapshot",
+      "releaseTime": "2014-04-14T17:36:19+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.9",
+      "type": "release",
+      "releaseTime": "2014-04-14T16:29:23+03:00",
+      "time": "2019-06-28T10:06:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.8",
+      "type": "release",
+      "releaseTime": "2014-04-09T10:58:16+03:00",
+      "time": "2019-06-28T10:06:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.7",
+      "type": "release",
+      "releaseTime": "2014-04-09T10:52:16+03:00",
+      "time": "2019-06-28T10:06:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.6",
+      "type": "release",
+      "releaseTime": "2014-04-09T10:52:06+03:00",
+      "time": "2019-06-28T10:06:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w11a",
+      "type": "snapshot",
+      "releaseTime": "2014-03-13T17:02:50+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.6-pre2",
+      "type": "snapshot",
+      "releaseTime": "2014-03-08T14:00:01+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.6-pre1",
+      "type": "snapshot",
+      "releaseTime": "2014-03-08T14:00:00+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w10c",
+      "type": "snapshot",
+      "releaseTime": "2014-03-07T16:49:55+03:00",
+      "time": "2019-06-28T10:08:13+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w10b",
+      "type": "snapshot",
+      "releaseTime": "2014-03-06T19:25:39+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w10a",
+      "type": "snapshot",
+      "releaseTime": "2014-03-06T17:23:04+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w08a",
+      "type": "snapshot",
+      "releaseTime": "2014-02-26T20:00:00+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.7.5",
+      "type": "modified",
+      "releaseTime": "2014-02-26T12:22:17+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.5",
+      "type": "release",
+      "releaseTime": "2014-02-26T12:22:17+03:00",
+      "time": "2019-06-28T10:06:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w07a",
+      "type": "snapshot",
+      "releaseTime": "2014-02-14T14:05:07+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w06b",
+      "type": "snapshot",
+      "releaseTime": "2014-02-06T20:30:42+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w06a",
+      "type": "snapshot",
+      "releaseTime": "2014-02-06T17:30:17+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w05b",
+      "type": "snapshot",
+      "releaseTime": "2014-01-31T17:05:50+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w05a",
+      "type": "snapshot",
+      "releaseTime": "2014-01-30T18:32:41+03:00",
+      "time": "2019-06-28T10:08:12+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w04b",
+      "type": "snapshot",
+      "releaseTime": "2014-01-24T18:48:46+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w04a",
+      "type": "snapshot",
+      "releaseTime": "2014-01-23T18:26:13+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w03b",
+      "type": "snapshot",
+      "releaseTime": "2014-01-16T19:36:19+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w03a",
+      "type": "snapshot",
+      "releaseTime": "2014-01-16T17:45:13+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w02c",
+      "type": "snapshot",
+      "releaseTime": "2014-01-10T18:42:36+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w02b",
+      "type": "snapshot",
+      "releaseTime": "2014-01-09T18:45:55+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "14w02a",
+      "type": "snapshot",
+      "releaseTime": "2014-01-09T17:44:41+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.4",
+      "type": "release",
+      "releaseTime": "2013-12-09T15:28:10+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.3",
+      "type": "release",
+      "releaseTime": "2013-12-06T16:55:34+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w49a",
+      "type": "snapshot",
+      "releaseTime": "2013-12-05T17:34:41+03:00",
+      "time": "2019-06-28T10:08:11+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w48b",
+      "type": "snapshot",
+      "releaseTime": "2013-11-26T21:36:08+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w48a",
+      "type": "snapshot",
+      "releaseTime": "2013-11-25T19:53:39+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w47e",
+      "type": "snapshot",
+      "releaseTime": "2013-11-22T18:16:38+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w47d",
+      "type": "snapshot",
+      "releaseTime": "2013-11-22T16:51:15+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w47c",
+      "type": "snapshot",
+      "releaseTime": "2013-11-21T20:10:33+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w47b",
+      "type": "snapshot",
+      "releaseTime": "2013-11-21T19:57:41+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w47a",
+      "type": "snapshot",
+      "releaseTime": "2013-11-21T18:59:58+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.7.2",
+      "type": "modified",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.7.2",
+      "type": "modified",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2018-04-06T19:58:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.7.2",
+      "type": "modified",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2018-04-06T19:58:27+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "LiteLoader 1.7.2",
+      "type": "modified",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiForgeLiteLoader 1.7.2",
+      "type": "modified",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2018-04-06T19:58:26+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeLiteLoader 1.7.2",
+      "type": "modified",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.2",
+      "type": "release",
+      "releaseTime": "2013-10-25T16:00:00+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7.1",
+      "type": "snapshot",
+      "releaseTime": "2013-10-23T15:01:07+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.7",
+      "type": "snapshot",
+      "releaseTime": "2013-10-22T18:04:05+03:00",
+      "time": "2019-06-28T10:07:48+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w43a",
+      "type": "snapshot",
+      "releaseTime": "2013-10-21T19:34:47+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w42b",
+      "type": "snapshot",
+      "releaseTime": "2013-10-18T19:34:08+03:00",
+      "time": "2019-06-28T10:08:10+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w42a",
+      "type": "snapshot",
+      "releaseTime": "2013-10-17T21:33:05+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w41b",
+      "type": "snapshot",
+      "releaseTime": "2013-10-11T18:09:17+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w41a",
+      "type": "snapshot",
+      "releaseTime": "2013-10-10T17:21:43+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.6.4",
+      "type": "modified",
+      "releaseTime": "2013-10-01T21:03:57+03:00",
+      "time": "2016-02-03T16:22:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w39b",
+      "type": "snapshot",
+      "releaseTime": "2013-09-27T15:15:58+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w39a",
+      "type": "snapshot",
+      "releaseTime": "2013-09-26T18:11:19+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w38c",
+      "type": "snapshot",
+      "releaseTime": "2013-09-20T18:11:34+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w38b",
+      "type": "snapshot",
+      "releaseTime": "2013-09-20T16:45:40+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w38a",
+      "type": "snapshot",
+      "releaseTime": "2013-09-19T19:34:21+03:00",
+      "time": "2019-06-28T10:08:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.6.4",
+      "type": "modified",
+      "releaseTime": "2013-09-19T18:52:37+03:00",
+      "time": "2016-02-03T16:22:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.6.4",
+      "type": "modified",
+      "releaseTime": "2013-09-19T18:52:37+03:00",
+      "time": "2016-02-03T16:22:49+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.6.4",
+      "type": "release",
+      "releaseTime": "2013-09-19T18:52:37+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.6.3",
+      "type": "snapshot",
+      "releaseTime": "2013-09-13T13:54:41+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w37b",
+      "type": "snapshot",
+      "releaseTime": "2013-09-13T13:54:41+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w37a",
+      "type": "snapshot",
+      "releaseTime": "2013-09-12T17:23:14+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w36b",
+      "type": "snapshot",
+      "releaseTime": "2013-09-06T15:31:58+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w36a",
+      "type": "snapshot",
+      "releaseTime": "2013-09-05T16:05:40+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.6.2",
+      "type": "release",
+      "releaseTime": "2013-07-05T16:09:02+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.6.1",
+      "type": "release",
+      "releaseTime": "2013-06-28T17:48:41+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.6",
+      "type": "snapshot",
+      "releaseTime": "2013-06-25T16:08:56+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w26a",
+      "type": "snapshot",
+      "releaseTime": "2013-06-24T19:06:06+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.5.2",
+      "type": "modified",
+      "releaseTime": "2013-06-21T03:00:00+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.5.2",
+      "type": "modified",
+      "releaseTime": "2013-06-21T03:00:00+03:00",
+      "time": "2020-02-05T16:24:21+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.5.2",
+      "type": "modified",
+      "releaseTime": "2013-06-21T03:00:00+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w25c",
+      "type": "snapshot",
+      "releaseTime": "2013-06-20T18:23:37+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w25b",
+      "type": "snapshot",
+      "releaseTime": "2013-06-18T18:13:27+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w25a",
+      "type": "snapshot",
+      "releaseTime": "2013-06-17T17:08:06+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w24b",
+      "type": "snapshot",
+      "releaseTime": "2013-06-14T15:19:13+03:00",
+      "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w24a",
+      "type": "snapshot",
+      "releaseTime": "2013-06-13T18:32:23+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w23b",
+      "type": "snapshot",
+      "releaseTime": "2013-06-08T03:32:01+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w23a",
+      "type": "snapshot",
+      "releaseTime": "2013-06-07T19:04:20+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w22a",
+      "type": "snapshot",
+      "releaseTime": "2013-05-30T17:38:40+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w21b",
+      "type": "snapshot",
+      "releaseTime": "2013-05-27T11:50:42+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w21a",
+      "type": "snapshot",
+      "releaseTime": "2013-05-23T18:38:28+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w19a",
+      "type": "snapshot",
+      "releaseTime": "2013-05-10T17:48:02+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w18c",
+      "type": "snapshot",
+      "releaseTime": "2013-05-03T12:19:35+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w18b",
+      "type": "snapshot",
+      "releaseTime": "2013-05-02T20:12:25+03:00",
+      "time": "2019-06-28T10:08:07+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w18a",
+      "type": "snapshot",
+      "releaseTime": "2013-05-02T18:45:59+03:00",
+      "time": "2019-06-28T10:08:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w17a",
+      "type": "snapshot",
+      "releaseTime": "2013-04-25T18:50:00+03:00",
+      "time": "2019-06-28T10:08:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.5.2",
+      "type": "release",
+      "releaseTime": "2013-04-25T18:45:00+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w16b",
+      "type": "snapshot",
+      "releaseTime": "2013-04-24T00:51:22+03:00",
+      "time": "2019-06-28T10:08:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "13w16a",
+      "type": "snapshot",
+      "releaseTime": "2013-04-21T15:49:30+03:00",
+      "time": "2019-06-28T10:08:06+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.5.1",
+      "type": "release",
+      "releaseTime": "2013-03-20T13:00:00+03:00",
+      "time": "2019-06-28T10:06:16+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.5",
+      "type": "snapshot",
+      "releaseTime": "2013-03-07T01:00:00+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.4.7",
+      "type": "modified",
+      "releaseTime": "2012-12-28T01:00:00+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.4.7",
+      "type": "modified",
+      "releaseTime": "2012-12-28T01:00:00+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.4.7",
+      "type": "modified",
+      "releaseTime": "2012-12-28T01:00:00+03:00",
+      "time": "2020-02-05T16:24:21+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.7",
+      "type": "release",
+      "releaseTime": "2012-12-28T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.5",
+      "type": "release",
+      "releaseTime": "2012-12-20T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.6",
+      "type": "release",
+      "releaseTime": "2012-12-20T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.4",
+      "type": "release",
+      "releaseTime": "2012-12-14T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.3",
+      "type": "snapshot",
+      "releaseTime": "2012-12-01T01:00:00+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.2",
+      "type": "release",
+      "releaseTime": "2012-11-25T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4.1",
+      "type": "snapshot",
+      "releaseTime": "2012-11-23T01:00:00+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.4",
+      "type": "snapshot",
+      "releaseTime": "2012-11-19T01:00:00+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.3.2",
+      "type": "release",
+      "releaseTime": "2012-08-16T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.3.1",
+      "type": "release",
+      "releaseTime": "2012-08-01T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.3",
+      "type": "snapshot",
+      "releaseTime": "2012-07-26T01:00:00+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "Forge 1.2.5",
+      "type": "modified",
+      "releaseTime": "2012-03-30T01:00:00+03:00",
+      "time": "2020-02-05T16:24:21+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "OptiFine 1.2.5",
+      "type": "modified",
+      "releaseTime": "2012-03-30T01:00:00+03:00",
+      "time": "2016-02-03T16:22:50+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "ForgeOptiFine 1.2.5",
+      "type": "modified",
+      "releaseTime": "2012-03-30T01:00:00+03:00",
+      "time": "2016-07-17T13:18:17+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.2.5",
+      "type": "release",
+      "releaseTime": "2012-03-30T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.2.4",
+      "type": "release",
+      "releaseTime": "2012-03-22T01:00:00+03:00",
+      "time": "2019-06-28T10:06:15+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.2.3",
+      "type": "release",
+      "releaseTime": "2012-03-02T01:00:00+03:00",
+      "time": "2019-06-28T10:06:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.2.2",
+      "type": "release",
+      "releaseTime": "2012-03-01T01:00:01+03:00",
+      "time": "2019-06-28T10:06:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.2.1",
+      "type": "release",
+      "releaseTime": "2012-03-01T01:00:00+03:00",
+      "time": "2019-06-28T10:06:14+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.1",
+      "type": "release",
+      "releaseTime": "2012-01-12T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.0",
+      "type": "release",
+      "releaseTime": "2011-11-18T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.8.1",
+      "type": "old_beta",
+      "releaseTime": "2011-09-19T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.8",
+      "type": "old_beta",
+      "releaseTime": "2011-09-15T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.7.3",
+      "type": "old_beta",
+      "releaseTime": "2011-07-08T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.7.2",
+      "type": "old_beta",
+      "releaseTime": "2011-07-01T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.7",
+      "type": "old_beta",
+      "releaseTime": "2011-06-30T01:00:00+03:00",
+      "time": "2019-06-28T10:05:45+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6.6",
+      "type": "old_beta",
+      "releaseTime": "2011-05-31T01:00:00+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6.5",
+      "type": "old_beta",
+      "releaseTime": "2011-05-28T01:00:00+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6.4",
+      "type": "old_beta",
+      "releaseTime": "2011-05-26T01:00:04+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6.3",
+      "type": "old_beta",
+      "releaseTime": "2011-05-26T01:00:03+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6.2",
+      "type": "old_beta",
+      "releaseTime": "2011-05-26T01:00:02+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6.1",
+      "type": "old_beta",
+      "releaseTime": "2011-05-26T01:00:01+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.6",
+      "type": "old_beta",
+      "releaseTime": "2011-05-26T01:00:00+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.5_01",
+      "type": "old_beta",
+      "releaseTime": "2011-04-20T01:00:00+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.5",
+      "type": "old_beta",
+      "releaseTime": "2011-04-19T01:00:00+03:00",
+      "time": "2019-06-28T10:05:44+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.4_01",
+      "type": "old_beta",
+      "releaseTime": "2011-04-05T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.4",
+      "type": "old_beta",
+      "releaseTime": "2011-03-31T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.3_01",
+      "type": "old_beta",
+      "releaseTime": "2011-02-23T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.3b",
+      "type": "old_beta",
+      "releaseTime": "2011-02-22T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.2_02",
+      "type": "old_beta",
+      "releaseTime": "2011-01-21T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.2_01",
+      "type": "old_beta",
+      "releaseTime": "2011-01-14T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.2",
+      "type": "old_beta",
+      "releaseTime": "2011-01-13T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.1_02",
+      "type": "old_beta",
+      "releaseTime": "2010-12-22T01:00:01+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.1_01",
+      "type": "old_beta",
+      "releaseTime": "2010-12-22T01:00:00+03:00",
+      "time": "2019-06-28T10:05:43+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.0.2",
+      "type": "old_beta",
+      "releaseTime": "2010-12-21T01:00:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.0_01",
+      "type": "old_beta",
+      "releaseTime": "2010-12-20T01:00:01+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "b1.0",
+      "type": "old_beta",
+      "releaseTime": "2010-12-20T01:00:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.6",
+      "type": "old_alpha",
+      "releaseTime": "2010-12-03T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.5",
+      "type": "old_alpha",
+      "releaseTime": "2010-12-01T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.4_01",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-30T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.3_04",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-26T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.3_02",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-25T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.3_01",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-24T01:00:01+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.3",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-24T01:00:00+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.2b",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-10T01:00:01+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.2a",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-10T01:00:00+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.1_01",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-05T01:00:01+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.1",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-05T01:00:00+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.0_02",
+      "type": "old_alpha",
+      "releaseTime": "2010-11-04T01:00:00+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.0_01",
+      "type": "old_alpha",
+      "releaseTime": "2010-10-31T01:00:00+03:00",
+      "time": "2019-06-28T10:05:40+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.2.0",
+      "type": "old_alpha",
+      "releaseTime": "2010-10-30T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.1.2_01",
+      "type": "old_alpha",
+      "releaseTime": "2010-09-23T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.1.2",
+      "type": "old_alpha",
+      "releaseTime": "2010-09-20T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.1.0",
+      "type": "old_alpha",
+      "releaseTime": "2010-09-13T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.17_04",
+      "type": "old_alpha",
+      "releaseTime": "2010-08-23T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.17_02",
+      "type": "old_alpha",
+      "releaseTime": "2010-08-20T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.16",
+      "type": "old_alpha",
+      "releaseTime": "2010-08-12T01:00:00+03:00",
+      "time": "2019-06-28T10:05:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.15",
+      "type": "old_alpha",
+      "releaseTime": "2010-08-04T01:00:00+03:00",
+      "time": "2019-06-28T10:05:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.14",
+      "type": "old_alpha",
+      "releaseTime": "2010-07-30T01:00:00+03:00",
+      "time": "2019-06-28T10:05:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.11",
+      "type": "old_alpha",
+      "releaseTime": "2010-07-23T01:00:00+03:00",
+      "time": "2019-06-28T10:05:38+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.5_01",
+      "type": "old_alpha",
+      "releaseTime": "2010-07-13T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "a1.0.4",
+      "type": "old_alpha",
+      "releaseTime": "2010-07-09T01:00:00+03:00",
+      "time": "2019-06-28T10:05:39+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "inf-20100618",
+      "type": "old_alpha",
+      "releaseTime": "2010-06-16T01:00:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "c0.30_01c",
+      "type": "old_alpha",
+      "releaseTime": "2009-12-22T01:00:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "c0.0.13a",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-31T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "c0.0.13a_03",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-22T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "c0.0.11a",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-17T01:00:00+03:00",
+      "time": "2019-06-28T10:05:41+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "rd-161348",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-16T14:48:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "rd-160052",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-16T01:52:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "rd-20090515",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-15T01:00:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "rd-132328",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-14T00:28:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "rd-132211",
+      "type": "old_alpha",
+      "releaseTime": "2009-05-13T23:11:00+03:00",
+      "time": "2019-06-28T10:05:42+03:00",
+      "hasRemote": true
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+
+#General Settings
+[general]
+	#Items which shouldn't be repaired with this mod. Use this if you're making a Modpack.
+	repairBlackList = []
+	#The sound which plays upon a successful repair.
+	repairSound = "minecraft:entity.experience_orb.pickup"
+	#The volume of the sound. The higher the volume, the louder the sound.
+	#Range: 0.0 ~ 1.0
+	soundVolume = 1.0
+	#The pitch of the sound. The higher the pitch, the higher the sound.
+	#Range: 0.0 ~ 1.0
+	soundPitch = 0.0
+

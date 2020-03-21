@@ -1,0 +1,19 @@
+{
+  "userSet": {
+    "selected": {
+      "username": "LSDMehanik",
+      "type": "ely"
+    },
+    "list": [
+      {
+        "id": 3222123,
+        "username": "LSDMehanik",
+        "displayName": "LSDMehanik",
+        "uuid": "5032ccec-7ba4-4032-8631-6b31ccd51cba",
+        "registeredAt": 1578000861,
+        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpYXQiOjE1NzgwMDE1NTEsImNsaWVudF9pZCI6InRsYXVuY2hlciIsInNjb3BlIjoib2J0YWluX293bl9hY2NvdW50X2luZm8gbWluZWNyYWZ0X3NlcnZlcl9zZXNzaW9uIiwic3ViIjoiZWx5fDMyMjIxMjMifQ.4uCgcMTBPJOpAlpF53Kvc8y9LHN1iMGlvas-P48X-RDcjdftRa5fRmapj4pcguz4_B8S-3o-bBr6WZmSEVHuNg",
+        "type": "ely"
+      }
+    ]
+  }
+}
