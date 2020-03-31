@@ -1,0 +1,2 @@
+waypoint:Home:H:126:70:39:12:false:0:gui.xaero_default:false:0
+waypoint:Лесобор:Л:114:81:161:14:false:0:gui.xaero_default:false:0

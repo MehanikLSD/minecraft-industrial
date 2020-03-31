@@ -1,0 +1,11 @@
+
+[temperature]
+	#Where on the X Axis should the temprature render
+	#Range: -200 ~ 200
+	"Temperature X Render" = 0
+	#Where on the Y Axis should the temprature render
+	#Range: -200 ~ 200
+	"Temperature Y Render" = -110
+	#If disabled, the actual temperature value will render on your screen
+	"Display Bar" = true
+

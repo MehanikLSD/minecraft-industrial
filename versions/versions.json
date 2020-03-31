@@ -2,52 +2,66 @@
   "_notice": "Pretend that you are not reading this. And this file does not exist. It does not affect anything important. Just for indexing. Hvae fnu!",
   "versions": [
     {
+      "id": "20w13b",
+      "type": "snapshot",
+      "releaseTime": "2020-03-26T16:00:34+03:00",
+      "time": "2020-03-26T16:05:09+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "20w13a",
+      "type": "snapshot",
+      "releaseTime": "2020-03-25T20:05:33+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
+      "hasRemote": true
+    },
+    {
       "id": "20w12a",
       "type": "snapshot",
       "releaseTime": "2020-03-18T19:42:06+03:00",
-      "time": "2020-03-18T19:46:35+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
       "id": "20w11a",
       "type": "snapshot",
       "releaseTime": "2020-03-11T19:28:27+03:00",
-      "time": "2020-03-18T19:28:39+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
       "id": "20w10a",
       "type": "snapshot",
       "releaseTime": "2020-03-04T19:21:41+03:00",
-      "time": "2020-03-18T19:28:39+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
       "id": "20w09a",
       "type": "snapshot",
       "releaseTime": "2020-02-26T19:43:08+03:00",
-      "time": "2020-03-18T19:28:39+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
       "id": "20w08a",
       "type": "snapshot",
       "releaseTime": "2020-02-19T16:30:09+03:00",
-      "time": "2020-03-18T19:28:39+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
       "id": "20w07a",
       "type": "snapshot",
       "releaseTime": "2020-02-14T16:20:49+03:00",
-      "time": "2020-03-18T19:28:39+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
       "id": "20w06a",
       "type": "snapshot",
       "releaseTime": "2020-02-05T19:05:22+03:00",
-      "time": "2020-03-18T19:28:39+03:00",
+      "time": "2020-03-26T14:48:05+03:00",
       "hasRemote": true
     },
     {
@@ -61,21 +75,7 @@
       "id": "1.15.2-forge-31.1.14",
       "type": "release",
       "releaseTime": "2020-01-17T13:03:52+03:00",
-      "time": "2020-02-17T22:05:31+03:00",
-      "hasRemote": false
-    },
-    {
-      "id": "1.15.2-forge-31.1.2",
-      "type": "release",
-      "releaseTime": "2020-01-17T13:03:52+03:00",
-      "time": "2020-02-14T21:32:28+03:00",
-      "hasRemote": false
-    },
-    {
-      "id": "fabric-loader-0.7.8+build.184-1.15.2",
-      "type": "release",
-      "releaseTime": "2020-01-17T13:03:52+03:00",
-      "time": "2020-02-24T18:14:34+03:00",
+      "time": "2020-03-25T21:03:28+03:00",
       "hasRemote": false
     },
     {
@@ -3362,17 +3362,17 @@
       "hasRemote": true
     },
     {
-      "id": "1.6.3",
-      "type": "snapshot",
-      "releaseTime": "2013-09-13T13:54:41+03:00",
-      "time": "2019-06-28T10:07:47+03:00",
-      "hasRemote": true
-    },
-    {
       "id": "13w37b",
       "type": "snapshot",
       "releaseTime": "2013-09-13T13:54:41+03:00",
       "time": "2019-06-28T10:08:08+03:00",
+      "hasRemote": true
+    },
+    {
+      "id": "1.6.3",
+      "type": "snapshot",
+      "releaseTime": "2013-09-13T13:54:41+03:00",
+      "time": "2019-06-28T10:07:47+03:00",
       "hasRemote": true
     },
     {

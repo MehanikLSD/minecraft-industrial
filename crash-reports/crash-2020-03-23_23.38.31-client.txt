@@ -1,0 +1,143 @@
+---- Minecraft Crash Report ----
+// Would you like a cupcake?
+
+Time: 23.03.20 23:38
+Description: Initializing game
+
+java.lang.IllegalStateException: No renderer registered for embellishcraft:entity_chair
+	at net.minecraft.client.renderer.entity.EntityRendererManager.<init>(EntityRendererManager.java:222) ~[?:?] {re:classloading,pl:accesstransformer:B,xf:OptiFine:default}
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:425) ~[?:?] {re:classloading,pl:accesstransformer:B,pl:runtimedistcleaner:A}
+	at net.minecraft.client.main.Main.main(SourceFile:166) ~[1.15.2-forge-31.1.14.jar:?] {re:classloading}
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_181] {}
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_181] {}
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_181] {}
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_181] {}
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:56) ~[forge-1.15.2-31.1.14.jar:31.1] {}
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37) [modlauncher-5.0.0-milestone.4.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54) [modlauncher-5.0.0-milestone.4.jar:?] {}
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72) [modlauncher-5.0.0-milestone.4.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:81) [modlauncher-5.0.0-milestone.4.jar:?] {}
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65) [modlauncher-5.0.0-milestone.4.jar:?] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Render thread
+Stacktrace:
+	at net.minecraft.client.renderer.entity.EntityRendererManager.<init>(EntityRendererManager.java:222)
+	at net.minecraft.client.Minecraft.<init>(Minecraft.java:425)
+
+-- Initialization --
+Details:
+Stacktrace:
+	at net.minecraft.client.main.Main.main(SourceFile:166)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.fml.loading.FMLClientLaunchProvider.lambda$launchService$0(FMLClientLaunchProvider.java:56)
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54)
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:81)
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:65)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.15.2
+	Minecraft Version ID: 1.15.2
+	Operating System: Windows 7 (amd64) version 6.1
+	Java Version: 1.8.0_181, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 4375451448 bytes (4172 MB) / 5368709120 bytes (5120 MB) up to 5368709120 bytes (5120 MB)
+	CPUs: 4
+	JVM Flags: 11 total; -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:ConcGCThreads=1 -XX:ParallelGCThreads=4 -Xmx5120M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xss1M
+	ModLauncher: 5.0.0-milestone.4+67+b1a340b
+	ModLauncher launch target: fmlclient
+	ModLauncher naming: srg
+	ModLauncher services: 
+		/eventbus-2.0.0-milestone.1-service.jar eventbus PLUGINSERVICE 
+		/forge-1.15.2-31.1.14.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.15.2-31.1.14.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-2.0.0-milestone.1-shadowed.jar accesstransformer PLUGINSERVICE 
+		/forge-1.15.2-31.1.14.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.15.2-31.1.14.jar runtimedistcleaner PLUGINSERVICE 
+		/OptiFine_1.15.2_HD_U_G1_pre9b_MOD.jar OptiFine TRANSFORMATIONSERVICE 
+		/forge-1.15.2-31.1.14.jar fml TRANSFORMATIONSERVICE 
+	FML: 31.1
+	Forge: net.minecraftforge:31.1.14
+	FML Language Providers: 
+		javafml@31.1
+		minecraft@1
+	Mod List: 
+		forge-1.15.2-31.1.14-client.jar Minecraft {minecraft@1.15.2 COMMON_SETUP}
+		industrial-foregoing-1.15.2-2.2.1-f27c515.jar Industrial Foregoing {industrialforegoing@2.2.1 COMMON_SETUP}
+		repairify-3.0.0-1.15.2.jar Repairify {repairify@3.0.0 COMMON_SETUP}
+		MoreStructures-1.15.2-1.2.1.jar Repurposed Structures {repurposed_structures@1.15.2-1.2.1 COMMON_SETUP}
+		resynth_1.15.2_4.0.0.jar Resynth {resynth@4.0.0 COMMON_SETUP}
+		embellishcraft-1.15.2-2.0.0.0.jar EmbellishCraft {embellishcraft@1.15.2-2.0.0.0 COMMON_SETUP}
+		AmbientSounds_v3.0.15_mc1.15.2.jar Ambient Sounds {ambientsounds@3.0.3 COMMON_SETUP}
+		titanium-1.15.2-2.3.6.jar Titanium {titanium@2.3.6 COMMON_SETUP}
+		torchslabmod-1.15.1_v1.6.jar Torch Slab Mod {torchslabmod@1.6.0 COMMON_SETUP}
+		BiomesOPlenty-1.15.2-10.0.0.345-universal.jar Biomes O' Plenty {biomesoplenty@1.15.2-10.0.0.342 COMMON_SETUP}
+		jei-1.15.2-6.0.0.2.jar Just Enough Items {jei@6.0.0.2 COMMON_SETUP}
+		endores-1.15.2-r3.jar End Ores {endores@1.15.2-r3 COMMON_SETUP}
+		astikorcarts-1.0.2-1.15.2.jar AstikorCarts {astikorcarts@1.0.2 COMMON_SETUP}
+		simplybackpacks-1.15.2-1.4.3.jar Simply Backpacks {simplybackpacks@1.15.2-1.4.3 COMMON_SETUP}
+		planttech2_1.15.2_0.01.06.jar PlantTech 2 {planttech2@0.01.06 COMMON_SETUP}
+		Mekanism-1.15.2-9.9.10.402.jar Mekanism {mekanism@9.9.10 COMMON_SETUP}
+		mcw-windows-1.0.0-mc1.15.1_1.15.2.jar Macaw's Windows {mcwwindows@1.0.0 COMMON_SETUP}
+		reap-1.12.1.jar Reap Mod {reap@1.12.1 COMMON_SETUP}
+		rsgauges-1.15.2-1.2.1.jar Gauges and Switches {rsgauges@1.2.1 COMMON_SETUP}
+		invtweaks-1.15.2-1.0.1.jar Inventory Tweaks Reborn {invtweaks@1.15.2-1.0.1 COMMON_SETUP}
+		patchouli-1.15.2-1.2-27.jar Patchouli {patchouli@1.15.2-1.1-25 COMMON_SETUP}
+		corail_woodcutter-1.1.1-1.15.2.jar Corail Woodcutter {corail_woodcutter@1.1.1 COMMON_SETUP}
+		xaeros_minimap_20.3.1.1_forge_1.15.2.jar Xaero's Minimap {xaerominimap@20.3.1 COMMON_SETUP}
+		gravityworld2.2.jar gravityworld mod {gravityworld@1.0 COMMON_SETUP}
+		oreexcavation-1.7.149.jar Ore Excavation {oreexcavation@NONE COMMON_SETUP}
+		sereneseasons-1.15.2-3.0.0.68-universal.jar Serene Seasons {sereneseasons@1.15.2-3.0.0.68 COMMON_SETUP}
+		lostcities-1.15-3.0.1-alpha.jar LostCities {lostcities@1.15-3.0.1-alpha COMMON_SETUP}
+		decorative_blocks_1.15.2_5.jar Decorative Blocks {decorative_blocks@1.5 COMMON_SETUP}
+		survive-1.15.2-1.1.0.jar Survive {survive@1.1.0 COMMON_SETUP}
+		mekanismtools-1.15.2-9.9.10.402.jar Mekanism: Tools {mekanismtools@9.9.10 COMMON_SETUP}
+		nhacampfire_1.15-1.5.jar No Hostiles Around Campfire {nhacampfire@1.5 COMMON_SETUP}
+		mcjtylib-1.15-4.0.1-alpha.jar McJtyLib {mcjtylib@1.15-4.0.1-alpha COMMON_SETUP}
+		rftoolsbase-1.15-1.0.0-alpha.jar RFToolsBase {rftoolsbase@1.15-1.0.0-alpha COMMON_SETUP}
+		rftoolsutility-1.15-2.0.0-alpha.jar RFToolsUtility {rftoolsutility@1.15-2.0.0-alpha COMMON_SETUP}
+		rftoolsbuilder-1.15-2.0.0-alpha.jar RFToolsBuilder {rftoolsbuilder@1.15-2.0.0-alpha COMMON_SETUP}
+		rftoolsstorage-1.15-1.0.1-alpha.jar RFToolsStorage {rftoolsstorage@1.15-1.0.1-alpha COMMON_SETUP}
+		mapperbase-1.15.2-1.0.0.0.jar Mapper Base {mapperbase@1.15.2-1.0.0.0 COMMON_SETUP}
+		mekanismgenerators-1.15.2-9.9.10.402.jar Mekanism: Generators {mekanismgenerators@9.9.10 COMMON_SETUP}
+		hwyla-forge-1.10.8-b72_1.15.2.jar Waila {waila@version COMMON_SETUP}
+		water-erosion-1.15.2-forge-1.1.0-alpha3.jar Water Erosion {water-erosion@1.1.0-alpha3 COMMON_SETUP}
+		ilikewood-1.15.2-2.1.0.0.jar I Like Wood {ilikewood@1.15.2-2.1.0.0 COMMON_SETUP}
+		rftoolspower-1.15-2.0.1-alpha.jar RFToolsPower {rftoolspower@1.15-2.0.1-alpha COMMON_SETUP}
+		forge-1.15.2-31.1.14-universal.jar Forge {forge@31.1.14 COMMON_SETUP}
+		goprone-1.15.x-1.1.1.jar GoProne {goprone@1.15.x-1.1.1 COMMON_SETUP}
+		incubation-1.0.2-1.15.2.jar Incubation {incubation@1.0.2 COMMON_SETUP}
+		BetterStorage-1.14.4-0.5.1.jar Hearthstone Mod {hearthstonemod@0.5.1 COMMON_SETUP}
+		fastleafdecay-v20.jar FastLeafDecay {fastleafdecay@v20 COMMON_SETUP}
+		beesourceful-1.0.9.jar BeeSourceful {beesourceful@1.0.9 COMMON_SETUP}
+		stairway_1.15.2_v14.jar StairwayToAether {stairway@v14 COMMON_SETUP}
+	Launched Version: 1.15.2-forge-31.1.14
+	Backend library: LWJGL version 3.2.2 build 10
+	Backend API: GeForce GT 540M/PCIe/SSE2 GL version 4.6.0 NVIDIA 391.35, NVIDIA Corporation
+	GL Caps: Using framebuffer using OpenGL 3.0
+	Using VBOs: Yes
+	Is Modded: Definitely; Client brand changed to 'forge'
+	Type: Client (map_client.txt)
+	CPU: 4x Intel(R) Core(TM) i5-2430M CPU @ 2.40GHz
+	OptiFine Version: OptiFine_1.15.2_HD_U_G1_pre9b
+	OptiFine Build: 20200319-004002
+	Render Distance Chunks: 6
+	Mipmaps: 0
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	Shaders: null
+	OpenGlVersion: 4.6.0 NVIDIA 391.35
+	OpenGlRenderer: GeForce GT 540M/PCIe/SSE2
+	OpenGlVendor: NVIDIA Corporation
+	CpuCount: 4

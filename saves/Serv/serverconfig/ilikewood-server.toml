@@ -1,0 +1,667 @@
+
+[item_tier]
+
+	[item_tier.efficiency]
+		#Range: 0.0 ~ 3.4028234663852886E38
+		diamond = 8.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		birch = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		oak = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		golden = 12.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		iron = 6.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		acacia = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		dark_oak = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		jungle = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		spruce = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		stone = 4.0
+
+	[item_tier.max_uses]
+		#Range: > 0
+		diamond = 1561
+		#Range: > 0
+		birch = 59
+		#Range: > 0
+		oak = 59
+		#Range: > 0
+		golden = 32
+		#Range: > 0
+		iron = 250
+		#Range: > 0
+		acacia = 59
+		#Range: > 0
+		dark_oak = 59
+		#Range: > 0
+		jungle = 59
+		#Range: > 0
+		spruce = 59
+		#Range: > 0
+		stone = 131
+
+	[item_tier.attack_damage]
+		#Range: 0.0 ~ 3.4028234663852886E38
+		diamond = 3.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		birch = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		oak = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		golden = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		iron = 2.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		acacia = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		dark_oak = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		jungle = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		spruce = 0.0
+		#Range: 0.0 ~ 3.4028234663852886E38
+		stone = 1.0
+
+	[item_tier.harvest_level]
+		#Range: > 0
+		diamond = 3
+		#Range: > 0
+		birch = 0
+		#Range: > 0
+		oak = 0
+		#Range: > 0
+		golden = 0
+		#Range: > 0
+		iron = 2
+		#Range: > 0
+		acacia = 0
+		#Range: > 0
+		dark_oak = 0
+		#Range: > 0
+		jungle = 0
+		#Range: > 0
+		spruce = 0
+		#Range: > 0
+		stone = 1
+
+	[item_tier.enchantability]
+		#Range: > 0
+		diamond = 10
+		#Range: > 0
+		birch = 15
+		#Range: > 0
+		oak = 15
+		#Range: > 0
+		golden = 22
+		#Range: > 0
+		iron = 14
+		#Range: > 0
+		acacia = 15
+		#Range: > 0
+		dark_oak = 15
+		#Range: > 0
+		jungle = 15
+		#Range: > 0
+		spruce = 15
+		#Range: > 0
+		stone = 5
+
+[block]
+
+	[block.enchanting_power_bonus]
+		#Range: 0.0 ~ 15.0
+		birch = 1.0
+		#Range: 0.0 ~ 15.0
+		oak = 1.0
+		#Range: 0.0 ~ 15.0
+		acacia = 1.0
+		#Range: 0.0 ~ 15.0
+		dark_oak = 1.0
+		#Range: 0.0 ~ 15.0
+		jungle = 1.0
+		#Range: 0.0 ~ 15.0
+		spruce = 1.0
+
+[item]
+
+	[item.burn_time]
+
+		[item.burn_time.birch]
+			#Range: > -1
+			bed = 400
+			#Range: > -1
+			barrel = 300
+			#Range: > -1
+			chest = 300
+			#Range: > -1
+			scaffolding = 100
+			#Range: > -1
+			crafting_table = 300
+			#Range: > -1
+			bookshelf = 300
+			#Range: > -1
+			panels = 300
+			#Range: > -1
+			pickaxe = 200
+			#Range: > -1
+			stripped_post = 300
+			#Range: > -1
+			stairs = 300
+			#Range: > -1
+			log_pile = 400
+			#Range: > -1
+			shovel = 200
+			#Range: > -1
+			torch = 400
+			#Range: > -1
+			slab = 150
+			#Range: > -1
+			axe = 200
+			#Range: > -1
+			sword = 200
+			#Range: > -1
+			ladder = 300
+			#Range: > -1
+			lectern = 300
+			#Range: > -1
+			post = 300
+			#Range: > -1
+			stick = 100
+			#Range: > -1
+			wall = 300
+			#Range: > -1
+			composter = 300
+			#Range: > -1
+			hoe = 200
+
+		[item.burn_time.oak]
+			#Range: > -1
+			bed = 400
+			#Range: > -1
+			barrel = 300
+			#Range: > -1
+			chest = 300
+			#Range: > -1
+			scaffolding = 100
+			#Range: > -1
+			crafting_table = 300
+			#Range: > -1
+			bookshelf = 300
+			#Range: > -1
+			panels = 300
+			#Range: > -1
+			pickaxe = 200
+			#Range: > -1
+			stripped_post = 300
+			#Range: > -1
+			stairs = 300
+			#Range: > -1
+			log_pile = 400
+			#Range: > -1
+			shovel = 200
+			#Range: > -1
+			torch = 400
+			#Range: > -1
+			slab = 150
+			#Range: > -1
+			axe = 200
+			#Range: > -1
+			sword = 200
+			#Range: > -1
+			ladder = 300
+			#Range: > -1
+			lectern = 300
+			#Range: > -1
+			post = 300
+			#Range: > -1
+			stick = 100
+			#Range: > -1
+			wall = 300
+			#Range: > -1
+			composter = 300
+			#Range: > -1
+			hoe = 200
+
+		[item.burn_time.acacia]
+			#Range: > -1
+			bed = 400
+			#Range: > -1
+			barrel = 300
+			#Range: > -1
+			chest = 300
+			#Range: > -1
+			scaffolding = 100
+			#Range: > -1
+			crafting_table = 300
+			#Range: > -1
+			bookshelf = 300
+			#Range: > -1
+			panels = 300
+			#Range: > -1
+			pickaxe = 200
+			#Range: > -1
+			stripped_post = 300
+			#Range: > -1
+			stairs = 300
+			#Range: > -1
+			log_pile = 400
+			#Range: > -1
+			shovel = 200
+			#Range: > -1
+			torch = 400
+			#Range: > -1
+			slab = 150
+			#Range: > -1
+			axe = 200
+			#Range: > -1
+			sword = 200
+			#Range: > -1
+			ladder = 300
+			#Range: > -1
+			lectern = 300
+			#Range: > -1
+			post = 300
+			#Range: > -1
+			stick = 100
+			#Range: > -1
+			wall = 300
+			#Range: > -1
+			composter = 300
+			#Range: > -1
+			hoe = 200
+
+		[item.burn_time.dark_oak]
+			#Range: > -1
+			bed = 400
+			#Range: > -1
+			barrel = 300
+			#Range: > -1
+			chest = 300
+			#Range: > -1
+			scaffolding = 100
+			#Range: > -1
+			crafting_table = 300
+			#Range: > -1
+			bookshelf = 300
+			#Range: > -1
+			panels = 300
+			#Range: > -1
+			pickaxe = 200
+			#Range: > -1
+			stripped_post = 300
+			#Range: > -1
+			stairs = 300
+			#Range: > -1
+			log_pile = 400
+			#Range: > -1
+			shovel = 200
+			#Range: > -1
+			torch = 400
+			#Range: > -1
+			slab = 150
+			#Range: > -1
+			axe = 200
+			#Range: > -1
+			sword = 200
+			#Range: > -1
+			ladder = 300
+			#Range: > -1
+			lectern = 300
+			#Range: > -1
+			post = 300
+			#Range: > -1
+			stick = 100
+			#Range: > -1
+			wall = 300
+			#Range: > -1
+			composter = 300
+			#Range: > -1
+			hoe = 200
+
+		[item.burn_time.jungle]
+			#Range: > -1
+			bed = 400
+			#Range: > -1
+			barrel = 300
+			#Range: > -1
+			chest = 300
+			#Range: > -1
+			scaffolding = 100
+			#Range: > -1
+			crafting_table = 300
+			#Range: > -1
+			bookshelf = 300
+			#Range: > -1
+			panels = 300
+			#Range: > -1
+			pickaxe = 200
+			#Range: > -1
+			stripped_post = 300
+			#Range: > -1
+			stairs = 300
+			#Range: > -1
+			log_pile = 400
+			#Range: > -1
+			shovel = 200
+			#Range: > -1
+			torch = 400
+			#Range: > -1
+			slab = 150
+			#Range: > -1
+			axe = 200
+			#Range: > -1
+			sword = 200
+			#Range: > -1
+			ladder = 300
+			#Range: > -1
+			lectern = 300
+			#Range: > -1
+			post = 300
+			#Range: > -1
+			stick = 100
+			#Range: > -1
+			wall = 300
+			#Range: > -1
+			composter = 300
+			#Range: > -1
+			hoe = 200
+
+		[item.burn_time.spruce]
+			#Range: > -1
+			bed = 400
+			#Range: > -1
+			barrel = 300
+			#Range: > -1
+			chest = 300
+			#Range: > -1
+			scaffolding = 100
+			#Range: > -1
+			crafting_table = 300
+			#Range: > -1
+			bookshelf = 300
+			#Range: > -1
+			panels = 300
+			#Range: > -1
+			pickaxe = 200
+			#Range: > -1
+			stripped_post = 300
+			#Range: > -1
+			stairs = 300
+			#Range: > -1
+			log_pile = 400
+			#Range: > -1
+			shovel = 200
+			#Range: > -1
+			torch = 400
+			#Range: > -1
+			slab = 150
+			#Range: > -1
+			axe = 200
+			#Range: > -1
+			sword = 200
+			#Range: > -1
+			ladder = 300
+			#Range: > -1
+			lectern = 300
+			#Range: > -1
+			post = 300
+			#Range: > -1
+			stick = 100
+			#Range: > -1
+			wall = 300
+			#Range: > -1
+			composter = 300
+			#Range: > -1
+			hoe = 200
+
+	[item.tiered]
+
+		[item.tiered.attack_speed]
+
+			[item.tiered.attack_speed.diamond]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_speed.birch]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.oak]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.golden]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.iron]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.1
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -1.0
+
+			[item.tiered.attack_speed.acacia]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.dark_oak]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.jungle]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.spruce]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -3.0
+
+			[item.tiered.attack_speed.stone]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = -2.4
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = -2.8
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = -3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = -3.2
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = -2.0
+
+		[item.tiered.attack_damage]
+
+			[item.tiered.attack_damage.diamond]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 5.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.birch]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.oak]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.golden]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.iron]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.acacia]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.dark_oak]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.jungle]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.spruce]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 6.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
+			[item.tiered.attack_damage.stone]
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				sword = 3.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				pickaxe = 1.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				shovel = 1.5
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				axe = 7.0
+				#Range: -3.4028234663852886E38 ~ 3.4028234663852886E38
+				hoe = 0.0
+
