@@ -1,18 +1,17 @@
 {
   "userSet": {
     "selected": {
-      "username": "LSDMehanik",
-      "type": "ely"
+      "username": "mehanik-lsd@mail.ru",
+      "type": "ely_legacy"
     },
     "list": [
       {
-        "id": 3222123,
-        "username": "LSDMehanik",
-        "displayName": "LSDMehanik",
+        "username": "mehanik-lsd@mail.ru",
         "uuid": "5032ccec-7ba4-4032-8631-6b31ccd51cba",
-        "registeredAt": 1578000861,
-        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpYXQiOjE1NzgwMDE1NTEsImNsaWVudF9pZCI6InRsYXVuY2hlciIsInNjb3BlIjoib2J0YWluX293bl9hY2NvdW50X2luZm8gbWluZWNyYWZ0X3NlcnZlcl9zZXNzaW9uIiwic3ViIjoiZWx5fDMyMjIxMjMifQ.4uCgcMTBPJOpAlpF53Kvc8y9LHN1iMGlvas-P48X-RDcjdftRa5fRmapj4pcguz4_B8S-3o-bBr6WZmSEVHuNg",
-        "type": "ely"
+        "displayName": "LSDMehanik",
+        "clientToken": "0ec683e5-13a0-487b-810b-281b4fa452f6",
+        "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpYXQiOjE1ODU5MzIwMDgsImV4cCI6MTU4NjEwNDgwOCwic2NvcGUiOiJtaW5lY3JhZnRfc2VydmVyX3Nlc3Npb24iLCJlbHktY2xpZW50LXRva2VuIjoibmVSQW1rTDRDYlJ3ZW85MFBIVDNKUWtFcUx6dHlEb3h6cEpIbUJieWY3NEVLdy1uZkU0N2pHNlllSC0wNXZZSGVHY0dMUDlRbWt2NzByU3hxQXVmWTlWb1RWYk9KLWR5UEpXMzZ3Iiwic3ViIjoiZWx5fDMyMjIxMjMifQ.3tHkkbqp1HATrIuqu_dm5QoLn2d21CylU45KYutgnz9FW4gh9zhWV_rsIOx6M3aNYvEHSX1eM-22FbDn7ixJdg",
+        "type": "ely_legacy"
       }
     ]
   }

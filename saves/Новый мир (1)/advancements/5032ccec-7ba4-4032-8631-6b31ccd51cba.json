@@ -5,33 +5,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/diamond_spruce_hoe": {
+  "embellishcraft:recipes/embellishcraft_group/slate_cobblestone_slab": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_slate_cobblestone": "2020-03-31 20:03:23 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smoker": {
+  "mapperbase:recipes/mapperbase_group/steel_shovel": {
     "criteria": {
-      "has_furnace": "2020-03-31 11:51:53 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/purple_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/storage_control_module": {
-    "criteria": {
-      "ingot": "2020-03-31 11:41:32 +0300"
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
@@ -41,9 +23,21 @@
     },
     "done": true
   },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_ore_blasting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/white_green_wallpaper": {
+    "criteria": {
+      "has_paper": "2020-03-31 23:20:20 +0300"
     },
     "done": true
   },
@@ -77,9 +71,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_door": {
+  "stairway:recipes/building_blocks/diorite_brick": {
     "criteria": {
-      "has_planks": "2020-03-31 12:45:45 +0300"
+      "has_diorite": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2020-04-01 01:56:13 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/slurry/clean": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
@@ -89,75 +101,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_stained_glass": {
+  "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_oak_shovel": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "mekanismtools:recipes/mekanism/iron_paxel": {
-    "criteria": {
-      "has_iron_pickaxe": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/golden_dark_oak_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
-    "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2020-03-31 11:42:09 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
+      "has_leather": "2020-03-31 23:03:27 +0300"
     },
     "done": true
   },
   "ilikewood:recipes/tools/golden_jungle_axe": {
     "criteria": {
       "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2020-03-31 21:18:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-01 01:36:31 +0300"
     },
     "done": true
   },
@@ -173,27 +143,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2020-03-31 11:40:19 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/golden_sword": {
-    "criteria": {
-      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/combat/golden_jungle_sword": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
     },
     "done": true
   },
@@ -203,21 +155,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_shovel": {
-    "criteria": {
-      "has_stick": "2020-03-31 11:39:32 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2020-03-31 12:19:11 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/spruce_wooden_crate": {
+  "minecraft:recipes/misc/gold_ingot_from_blasting": {
     "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
@@ -227,15 +173,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/shears": {
+  "mekanism:recipes/mekanism/processing/iron/shard/from_crystal": {
     "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
@@ -257,9 +209,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/emerald_block": {
+  "stairway:recipes/decorations/diorite_stone": {
     "criteria": {
-      "has_emerald": "2020-03-31 11:42:41 +0300"
+      "has_diorite": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
@@ -269,9 +221,21 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/diamond_birch_shovel": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_egg": "2020-04-01 02:14:39 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/helmet": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/turbine/casing": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
     },
     "done": true
   },
@@ -299,33 +263,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_dark_oak_hoe": {
+  "mekanism:recipes/mekanism/processing/copper/dirty_dust/from_clump": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/orange_acacia_fancy_bed": {
-    "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
-    "criteria": {
-      "ingot": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/spruce_fancy_door": {
-    "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+      "has_kelp": "2020-03-31 23:14:21 +0300"
     },
     "done": true
   },
@@ -335,9 +281,27 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/iron_acacia_shovel": {
+  "embellishcraft:recipes/embellishcraft_group/smooth_diorite_slab": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
+      "has_smooth_diorite": "2020-04-03 19:49:22 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/diorite_bricks": {
+    "criteria": {
+      "has_smooth_diorite": "2020-04-03 19:49:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2020-03-31 20:10:07 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/hoe": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
     },
     "done": true
   },
@@ -383,27 +347,33 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/cherry_boat": {
-    "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/diamond_spruce_shovel": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/tools/iron_oak_axe": {
+  "mekanism:recipes/mekanism/processing/bronze/ingot/from_infusing": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_tin": "2020-03-31 20:44:39 +0300"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/fir_boat": {
+  "embellishcraft:recipes/embellishcraft_group/larvikite_cobblestone_slab": {
     "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
+      "has_larvikite_cobblestone": "2020-04-01 01:28:53 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_cobblestone_wall": {
+    "criteria": {
+      "has_basalt_cobblestone": "2020-03-31 20:10:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2020-03-31 23:03:27 +0300"
     },
     "done": true
   },
@@ -419,55 +389,13 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/iron_spruce_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
-    "criteria": {
-      "ingot": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "stairway:recipes/building_blocks/andesite_cobble": {
-    "criteria": {
-      "has_andesite": "2020-03-31 11:50:43 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/composter": {
     "criteria": {
       "has_wood_slab": "2020-03-31 12:45:45 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/clock_module": {
-    "criteria": {
-      "ingot": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_group/orange_birch_fancy_bed": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/gray_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2020-03-31 12:33:01 +0300"
     },
@@ -485,12 +413,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gold_block": {
-    "criteria": {
-      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2020-03-31 11:41:31 +0300",
@@ -498,21 +420,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/golden_birch_pickaxe": {
+  "minecraft:recipes/redstone/comparator": {
     "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/damaged_paving": {
-    "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/acacia_suspended_stairs": {
-    "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+      "has_quartz": "2020-04-01 01:56:13 +0300"
     },
     "done": true
   },
@@ -528,9 +438,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/cauldron": {
+  "mekanism:recipes/mekanism/processing/gold/shard/from_crystal": {
     "criteria": {
-      "has_water_bucket": "2020-03-31 16:45:07 +0300"
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
@@ -552,21 +462,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2020-03-31 11:47:05 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "mekanism:recipes/mekanism/steel_casing": {
     "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
+      "has_osmium": "2020-03-31 20:44:40 +0300"
     },
     "done": true
   },
@@ -576,15 +480,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+  "mekanism:recipes/misc/processing/iron/ingot/from_dust_blasting": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/tools/golden_birch_hoe": {
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
     },
     "done": true
   },
@@ -594,39 +498,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_group/white_acacia_fancy_bed": {
     "criteria": {
       "has_acacia_planks": "2020-03-31 11:51:17 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/tools/golden_spruce_axe": {
+  "mekanism:recipes/mekanism/processing/osmium/dust/from_ore": {
     "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_stairs": {
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
-      "has_planks": "2020-03-31 12:43:49 +0300"
+      "has_kelp": "2020-03-31 23:14:21 +0300"
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/chain": {
+  "mekanismtools:recipes/mekanism/steel/armor/helmet": {
     "criteria": {
-      "has_ingot": "2020-03-31 11:41:31 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "mekanism:recipes/mekanism/processing/gold/dirty_dust/from_clump": {
     "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
@@ -636,27 +540,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/iron_acacia_axe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/spruce_fancy_table": {
-    "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
     },
     "done": true
   },
@@ -666,51 +552,21 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_dark_oak_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2020-03-31 11:41:32 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/light_gray_oak_fancy_bed": {
+  "mekanism:recipes/mekanism/processing/tin/clump/from_shard": {
     "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_concrete_powder": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/acacia_fancy_door": {
-    "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/combat/diamond_jungle_sword": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/magenta_acacia_fancy_bed": {
-    "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2020-03-31 11:41:31 +0300"
+      "has_stone": "2020-04-01 00:11:10 +0300"
     },
     "done": true
   },
@@ -726,15 +582,27 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/gray_acacia_fancy_bed": {
+  "stairway:recipes/decorations/stone_smooth": {
     "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+      "has_stone": "2020-04-01 01:36:31 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
+  "mekanismtools:recipes/mekanism/osmium/tools/sword": {
     "criteria": {
-      "has_log": "2020-03-31 11:47:22 +0300"
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/transmitter/universal_cable/basic": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/gold/clump/from_ore": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
@@ -744,33 +612,33 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/birch_seat": {
+  "mekanismtools:recipes/mekanism/steel/tools/pickaxe": {
     "criteria": {
-      "has_plank": "2020-03-31 12:33:01 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/combat/diamond_birch_sword": {
+  "stairway:recipes/building_blocks/diorite_stone": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
+      "has_diorite": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lime_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
+      "has_flint": "2020-03-31 20:10:06 +0300"
     },
     "done": true
   },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2020-03-31 21:18:12 +0300"
     },
     "done": true
   },
@@ -812,27 +680,21 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/light_blue_acacia_fancy_bed": {
-    "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/iron_acacia_pickaxe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
-  "stairway:recipes/decorations/andesite_cobble": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs": {
     "criteria": {
-      "has_andesite": "2020-03-31 11:50:43 +0300"
+      "has_polished_diorite": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_jungle_hoe": {
+  "minecraft:recipes/misc/blue_dye": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:36 +0300"
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
     },
     "done": true
   },
@@ -842,27 +704,21 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/birch_palisade": {
+  "mekanism:recipes/mekanism/processing/iron/dust/from_dirty_dust": {
     "criteria": {
-      "has_log": "2020-03-31 11:47:22 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_fence": {
-    "criteria": {
-      "has_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/marble_cobblestone_wall": {
+    "criteria": {
+      "has_marble_cobblestone": "2020-03-31 19:52:17 +0300"
     },
     "done": true
   },
@@ -896,15 +752,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+  "minecraft:husbandry/tame_an_animal": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+      "tamed_animal": "2020-03-31 19:49:23 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/oak_fancy_chest": {
+  "stairway:recipes/building_blocks/stone_smooth": {
     "criteria": {
-      "has_chest": "2020-03-31 11:39:33 +0300"
+      "has_stone": "2020-04-01 01:36:31 +0300"
     },
     "done": true
   },
@@ -914,15 +770,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_chestplate": {
+  "stairway:recipes/decorations/diorite_brick": {
     "criteria": {
-      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/umbran_boat": {
-    "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
+      "has_diorite": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
@@ -938,15 +788,21 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/light_blue_oak_fancy_bed": {
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_dust_smelting": {
     "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/brown_spruce_fancy_bed": {
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+      "has_diorite": "2020-04-03 19:47:11 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/light_blue_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
     },
     "done": true
   },
@@ -962,15 +818,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+  "embellishcraft:recipes/embellishcraft_group/smooth_diorite_stairs": {
     "criteria": {
-      "has_blue_flower": "2020-03-31 17:31:38 +0300"
+      "has_smooth_diorite": "2020-04-03 19:49:22 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+  "mekanism:recipes/misc/charcoal": {
     "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
+      "has_charcoal_block": "2020-03-31 23:27:41 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_from_cobblestone_smelting": {
+    "criteria": {
+      "has_basalt_cobblestone": "2020-03-31 20:10:01 +0300"
     },
     "done": true
   },
@@ -980,21 +842,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+  "stairway:recipes/building_blocks/diorite_smooth": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/birch_suspended_stairs": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:32 +0300"
+      "has_diorite": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
@@ -1010,33 +860,21 @@
     },
     "done": true
   },
-  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card": {
+  "sereneseasons:recipes/tools/calendar": {
     "criteria": {
-      "iron_ingot": "2020-03-31 11:41:32 +0300"
+      "has_paper": "2020-03-31 23:20:20 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "has_red_flower": "2020-03-31 17:31:37 +0300"
+      "has_log": "2020-04-01 02:15:51 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_oak_pickaxe": {
+  "embellishcraft:recipes/embellishcraft_group/slate_from_cobblestone_smelting": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:36 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/black_oak_fancy_bed": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_wood": {
-    "criteria": {
-      "has_log": "2020-03-31 11:39:32 +0300"
+      "has_slate_cobblestone": "2020-03-31 20:03:23 +0300"
     },
     "done": true
   },
@@ -1046,21 +884,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_wood": {
+  "mapperbase:recipes/mapperbase_group/steel_fence": {
     "criteria": {
-      "has_log": "2020-03-31 11:41:53 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/birch_chair": {
-    "criteria": {
-      "has_birch_slab": "2020-03-31 14:13:48 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_yellow_flower": "2020-03-31 11:49:37 +0300"
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
@@ -1070,9 +896,27 @@
     },
     "done": true
   },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/axe": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2020-03-31 23:17:53 +0300"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/blue_acacia_fancy_bed": {
     "criteria": {
       "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-03-31 21:03:17 +0300"
     },
     "done": true
   },
@@ -1082,15 +926,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_jungle_axe": {
+  "mekanism:recipes/processing/iron/crystal/from_slurry": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/wooden_sword": {
-    "criteria": {
-      "has_stick": "2020-03-31 11:39:32 +0300"
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
@@ -1100,27 +938,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/oak_planks": {
-    "criteria": {
-      "has_log": "2020-03-31 11:46:31 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/white_spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/diamond_spruce_pickaxe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
-    "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
     },
     "done": true
   },
@@ -1142,33 +962,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
-    "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorations/oak_seat": {
     "criteria": {
       "has_plank": "2020-03-31 12:43:49 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/yellow_oak_fancy_bed": {
+  "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/combat/golden_oak_sword": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/blue_spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+      "has_log": "2020-04-01 02:15:51 +0300"
     },
     "done": true
   },
@@ -1184,39 +986,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/dark_oak_terrace_chair": {
-    "criteria": {
-      "has_dark_oak_pressure_plate": "2020-03-31 17:39:58 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/oak_suspended_stairs": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_dark_oak_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_dark_oak_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
     },
     "done": true
   },
@@ -1226,39 +998,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/building_blocks/oak_panels": {
-    "criteria": {
-      "has_slab": "2020-03-31 15:55:00 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_jungle_shovel": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/crossbow": {
-    "criteria": {
-      "has_stick": "2020-03-31 11:39:32 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/bar_panel": {
-    "criteria": {
-      "has_ingot": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
@@ -1280,29 +1022,21 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/birch_terrace_table": {
-    "criteria": {
-      "has_birch_pressure_plate": "2020-03-31 17:40:42 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-31 14:39:22 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+  "mekanism:recipes/transportation/rails": {
     "criteria": {
-      "has_iron_boots": "2020-03-31 11:41:31 +0300",
-      "has_iron_pickaxe": "2020-03-31 11:41:32 +0300",
-      "has_iron_chestplate": "2020-03-31 11:41:32 +0300"
+      "has_osmium": "2020-03-31 20:44:40 +0300"
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/flatter_hammer": {
+  "mekanism:recipes/processing/gold/crystal/from_slurry": {
     "criteria": {
-      "has_stick": "2020-03-31 11:39:32 +0300"
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
@@ -1318,27 +1052,15 @@
     },
     "done": true
   },
-  "stairway:recipes/decorations/stone_cobble": {
+  "mekanism:recipes/mekanism/boiler_casing": {
     "criteria": {
-      "has_stone": "2020-03-31 11:50:36 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/cyan_spruce_fancy_bed": {
+  "stairway:recipes/decorations/diorite_smooth": {
     "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "stairway:recipes/building_blocks/diorite_cobble": {
-    "criteria": {
-      "has_diorite": "2020-03-31 15:35:03 +0300"
+      "has_diorite": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
@@ -1348,21 +1070,17 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/stone_birch_axe": {
+  "mekanism:recipes/infusion_conversion/carbon/from_coal": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
+      "has_coal": "2020-03-31 20:02:26 +0300"
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecraft:recipes/misc/book": {
     "criteria": {
-      "minecraft:forest": "2020-03-31 12:03:55 +0300",
-      "minecraft:taiga": "2020-03-31 11:35:56 +0300",
-      "minecraft:taiga_hills": "2020-03-31 11:35:23 +0300",
-      "minecraft:wooded_hills": "2020-03-31 11:46:29 +0300",
-      "minecraft:plains": "2020-03-31 11:37:49 +0300"
+      "has_paper": "2020-03-31 23:20:20 +0300"
     },
-    "done": false
+    "done": true
   },
   "ilikewood:recipes/combat/golden_spruce_sword": {
     "criteria": {
@@ -1376,9 +1094,10 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/acacia_fancy_chest": {
+  "mapperbase:recipes/mapperbase_group/steel_nugget_from_blasting": {
     "criteria": {
-      "has_chest": "2020-03-31 11:39:33 +0300"
+      "has_steel_chestplate": "2020-04-01 02:06:22 +0300",
+      "has_steel_leggings": "2020-04-01 02:06:22 +0300"
     },
     "done": true
   },
@@ -1394,21 +1113,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
+  "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/diamond_oak_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_oak_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_spider_eye": "2020-03-31 23:07:01 +0300"
     },
     "done": true
   },
@@ -1424,27 +1131,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_spruce_shovel": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2020-03-31 16:48:27 +0300"
     },
     "done": true
   },
@@ -1454,15 +1143,9 @@
     },
     "done": true
   },
-  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+  "mekanism:recipes/mekanism/storage_blocks/tin": {
     "criteria": {
-      "ingot": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2020-03-31 17:31:42 +0300"
+      "has_tin": "2020-03-31 20:44:39 +0300"
     },
     "done": true
   },
@@ -1478,45 +1161,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_spruce_shovel": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
-    "criteria": {
-      "has_red_flower": "2020-03-31 17:31:43 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/diamond_birch_hoe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/light_gray_spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
     },
     "done": true
   },
@@ -1532,9 +1185,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2020-03-31 23:14:21 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_cobblestone_slab": {
+    "criteria": {
+      "has_basalt_cobblestone": "2020-03-31 20:10:01 +0300"
     },
     "done": true
   },
@@ -1550,15 +1221,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+  "embellishcraft:recipes/embellishcraft_group/gneiss_cobblestone_slab": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/white_oak_fancy_bed": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_gneiss_cobblestone": "2020-03-31 20:02:38 +0300"
     },
     "done": true
   },
@@ -1574,15 +1239,28 @@
     },
     "done": true
   },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/spruce_chair": {
+  "mekanismtools:recipes/mekanism/osmium/tools/shovel": {
     "criteria": {
-      "has_spruce_slab": "2020-03-31 12:45:45 +0300"
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/nugget_from_blasting": {
+    "criteria": {
+      "has_steel_helmet": "2020-04-01 02:06:22 +0300",
+      "has_steel_boots": "2020-04-01 02:06:22 +0300"
     },
     "done": true
   },
@@ -1598,12 +1276,6 @@
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_birch_planks": {
-    "criteria": {
-      "has_ingredient": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
   "embellishcraft:recipes/embellishcraft_group/lime_spruce_fancy_bed": {
     "criteria": {
       "has_spruce_planks": "2020-03-31 12:45:45 +0300"
@@ -1616,21 +1288,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+  "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+      "has_stone": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/yellow_birch_fancy_bed": {
+  "mekanism:recipes/mekanism/processing/copper/ore/from_dust": {
     "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
+  "embellishcraft:recipes/embellishcraft_group/larvikite_cobblestone_wall": {
     "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
+      "has_larvikite_cobblestone": "2020-04-01 01:28:53 +0300"
     },
     "done": true
   },
@@ -1646,9 +1318,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/combat/stone_acacia_sword": {
+  "minecraft:recipes/misc/brown_dye": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
+      "has_cocoa_beans": "2020-03-31 23:13:05 +0300"
     },
     "done": true
   },
@@ -1670,39 +1342,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/green_spruce_fancy_bed": {
-    "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/oak_chair": {
-    "criteria": {
-      "has_oak_slab": "2020-03-31 15:55:00 +0300"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_oak_planks": {
-    "criteria": {
-      "has_ingredient": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorations/rocky_dirt": {
     "criteria": {
       "has_dirt": "2020-03-31 11:38:16 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_acacia_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:36 +0300"
     },
     "done": true
   },
@@ -1712,9 +1354,21 @@
     },
     "done": true
   },
+  "mekanism:recipes/processing/osmium/crystal/from_slurry": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
     },
     "done": true
   },
@@ -1724,9 +1378,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "embellishcraft:recipes/embellishcraft_group/gneiss_cobblestone_pressure_plate": {
     "criteria": {
-      "has_planks": "2020-03-31 12:33:01 +0300"
+      "has_gneiss_cobblestone": "2020-03-31 20:02:38 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/dust/from_ingot": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
     },
     "done": true
   },
@@ -1736,21 +1396,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_hoe": {
-    "criteria": {
-      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2020-03-31 11:37:32 +0300"
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_acacia_planks": {
+  "decorative_blocks:recipes/decorations/jungle_palisade": {
     "criteria": {
-      "has_ingredient": "2020-03-31 11:51:17 +0300"
+      "has_log": "2020-04-01 02:15:51 +0300"
     },
     "done": true
   },
@@ -1766,9 +1420,21 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_group/slate_cobblestone_stairs": {
+    "criteria": {
+      "has_slate_cobblestone": "2020-03-31 20:03:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
     },
     "done": true
   },
@@ -1790,12 +1456,6 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/golden_jungle_shovel": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
@@ -1805,18 +1465,6 @@
   "decorative_blocks:recipes/decorations/spruce_support": {
     "criteria": {
       "has_plank": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/dead_boat": {
-    "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/diamond_acacia_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
@@ -1832,21 +1480,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_boat": {
-    "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
+  "mekanism:recipes/gas_conversion/flint_to_oxygen": {
+    "criteria": {
+      "has_flint": "2020-03-31 20:10:06 +0300"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/iron_jungle_hoe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2020-03-31 20:10:06 +0300"
     },
     "done": true
   },
@@ -1859,6 +1513,12 @@
   "ilikewood:recipes/tools/golden_acacia_axe": {
     "criteria": {
       "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/gneiss_from_cobblestone_smelting": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2020-03-31 20:02:38 +0300"
     },
     "done": true
   },
@@ -1880,18 +1540,6 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/golden_oak_hoe": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_dark_oak_hoe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2020-03-31 11:39:32 +0300"
@@ -1904,9 +1552,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/gray_oak_fancy_bed": {
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/pickaxe": {
     "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
     },
     "done": true
   },
@@ -1922,15 +1570,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/diamond_jungle_pickaxe": {
+  "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+      "has_diorite": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
@@ -1940,27 +1582,21 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/magic_boat": {
+  "mekanism:recipes/mekanism/processing/gold/clump/from_shard": {
     "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_slab": {
+  "mekanismtools:recipes/mekanism/steel/tools/shovel": {
     "criteria": {
-      "has_planks": "2020-03-31 12:33:01 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "mapperbase:recipes/mapperbase_group/steel_ingot_from_blasting": {
+  "embellishcraft:recipes/embellishcraft_group/locker": {
     "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_oak_hoe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
@@ -1970,9 +1606,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+  "mekanism:recipes/processing/iron/slurry/clean": {
     "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
@@ -1982,9 +1618,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/golden_spruce_hoe": {
+  "mekanism:recipes/mekanism/processing/gold/dust/from_ore": {
     "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
     },
     "done": true
   },
@@ -2000,12 +1636,6 @@
     },
     "done": true
   },
-  "stairway:recipes/decorations/granite_cobble": {
-    "criteria": {
-      "has_granite": "2020-03-31 15:35:04 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-03-31 11:41:31 +0300"
@@ -2018,15 +1648,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_fence_gate": {
+  "minecraft:recipes/combat/bow": {
     "criteria": {
-      "has_planks": "2020-03-31 12:43:49 +0300"
+      "has_string": "2020-03-31 23:05:26 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
-      "has_gunpowder": "2020-03-31 17:28:54 +0300"
+      "has_planks": "2020-03-31 12:43:49 +0300"
     },
     "done": true
   },
@@ -2036,21 +1666,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_stained_glass_pane": {
+  "mekanism:recipes/mekanism/induction/casing": {
     "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
-    "criteria": {
-      "ingot": "2020-03-31 11:41:32 +0300"
+      "has_diorite": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
@@ -2066,6 +1690,12 @@
     },
     "done": true
   },
+  "embellishcraft:recipes/embellishcraft_group/beige_flower_wallpaper": {
+    "criteria": {
+      "has_paper": "2020-03-31 23:20:20 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2020-03-31 11:41:31 +0300"
@@ -2078,9 +1708,33 @@
     },
     "done": true
   },
+  "mekanism:recipes/mekanism/processing/osmium/dust/from_dirty_dust": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/gold/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/electromagnetic_coil": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/dirty_dust/from_clump": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
     },
     "done": true
   },
@@ -2102,15 +1756,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/iron_spruce_axe": {
+  "embellishcraft:recipes/embellishcraft_group/marble_cobblestone_slab": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_marble_cobblestone": "2020-03-31 19:52:17 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/birch_fancy_chest": {
+  "ilikewood:recipes/tools/iron_spruce_axe": {
     "criteria": {
-      "has_chest": "2020-03-31 11:39:33 +0300"
+      "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
@@ -2138,27 +1792,15 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/cyan_birch_fancy_bed": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/birch_fancy_table": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2020-03-31 11:39:32 +0300"
     },
     "done": true
   },
-  "stairway:recipes/building_blocks/block_chain_iron": {
+  "mekanism:recipes/mekanism/transmitter/diversion_transporter": {
     "criteria": {
-      "has_iron": "2020-03-31 11:41:32 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
@@ -2180,21 +1822,39 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/spruce_palisade": {
+  "mekanismtools:recipes/mekanism/steel/tools/hoe": {
     "criteria": {
-      "has_log": "2020-03-31 11:41:53 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
+  "embellishcraft:recipes/embellishcraft_group/basalt_slab": {
     "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_block": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
     },
     "done": true
   },
@@ -2216,12 +1876,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
@@ -2234,9 +1888,21 @@
     },
     "done": true
   },
+  "mekanismgenerators:recipes/mekanism/rotational_complex": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
   "embellishcraft:recipes/embellishcraft_group/black_spruce_fancy_bed": {
     "criteria": {
       "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/dust/from_dirty_dust": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
     },
     "done": true
   },
@@ -2246,9 +1912,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/combat/diamond_spruce_sword": {
+  "minecraft:recipes/decorations/item_frame": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
+      "has_leather": "2020-03-31 23:03:27 +0300"
     },
     "done": true
   },
@@ -2258,27 +1924,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorations/oak_support": {
-    "criteria": {
-      "has_plank": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_fence": {
-    "criteria": {
-      "has_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_hoe": {
-    "criteria": {
-      "has_diamond": "2020-03-31 11:41:32 +0300"
+      "has_redstone": "2020-03-31 20:52:06 +0300"
     },
     "done": true
   },
@@ -2294,39 +1942,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_spruce_planks": {
-    "criteria": {
-      "has_ingredient": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/light_gray_birch_fancy_bed": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2020-03-31 11:42:41 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_jungle_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
     },
     "done": true
   },
@@ -2336,19 +1954,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-03-31 14:48:26 +0300"
     },
@@ -2360,39 +1966,21 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/light_gray_acacia_fancy_bed": {
-    "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/glass_pane": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_acacia_shovel": {
     "criteria": {
       "has_material": "2020-03-31 11:50:36 +0300"
     },
     "done": true
   },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/helmet": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
   "ilikewood:recipes/combat/iron_jungle_sword": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magenta_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_diamond": {
-    "criteria": {
-      "diamond": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
@@ -2414,9 +2002,9 @@
     },
     "done": true
   },
-  "ilikewood:recipes/tools/diamond_acacia_hoe": {
+  "embellishcraft:recipes/embellishcraft_group/smooth_diorite": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_polished_diorite": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
@@ -2426,21 +2014,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/stone_birch_pickaxe": {
     "criteria": {
       "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/diamond_jungle_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
     },
     "done": true
   },
@@ -2456,33 +2032,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/purple_birch_fancy_bed": {
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/pink_oak_fancy_bed": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/combat/golden_dark_oak_sword": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
-    "criteria": {
-      "has_sand": "2020-03-31 14:39:22 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/oak_fancy_table": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_stone_bricks": "2020-04-03 19:48:25 +0300"
     },
     "done": true
   },
@@ -2492,9 +2044,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/orange_oak_fancy_bed": {
+  "ilikewood:recipes/decorations/jungle_wall": {
     "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_log": "2020-04-01 02:15:51 +0300"
     },
     "done": true
   },
@@ -2510,15 +2062,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/combat/diamond_dark_oak_sword": {
+  "mekanism:recipes/mekanism/gas_mask": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/combat/diamond_acacia_sword": {
+  "ilikewood:recipes/combat/diamond_dark_oak_sword": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
+      "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
@@ -2528,9 +2080,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_nuggets": {
     "criteria": {
-      "has_reeds": "2020-03-31 11:40:19 +0300"
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/armor/leggings": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
@@ -2540,21 +2098,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/palm_boat": {
     "criteria": {
       "in_water": "2020-03-31 11:37:32 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_oak_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/diamond_axe": {
-    "criteria": {
-      "has_diamond": "2020-03-31 11:41:32 +0300"
     },
     "done": true
   },
@@ -2570,27 +2122,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/decorations/acacia_wall": {
-    "criteria": {
-      "has_log": "2020-03-31 11:39:32 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_birch_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/golden_dark_oak_axe": {
     "criteria": {
       "has_material": "2020-03-31 17:28:51 +0300"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/redwood_boat": {
+  "embellishcraft:recipes/embellishcraft_group/smooth_diorite_pressure_plate": {
     "criteria": {
-      "in_water": "2020-03-31 11:37:32 +0300"
+      "has_smooth_diorite": "2020-04-03 19:49:22 +0300"
     },
     "done": true
   },
@@ -2600,9 +2140,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_stained_glass": {
+  "mekanism:recipes/mekanism/processing/copper/clump/from_ore": {
     "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/gas_conversion/osmium_from_ingot": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
     },
     "done": true
   },
@@ -2612,21 +2158,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_planks": "2020-03-31 11:51:17 +0300"
+      "has_stone": "2020-04-01 00:11:10 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+  "mekanism:recipes/mekanism/thermal_evaporation/block": {
     "criteria": {
-      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+      "has_copper": "2020-03-31 20:44:41 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_shovel": {
+  "mekanismtools:recipes/mekanism/osmium/tools/hoe": {
     "criteria": {
-      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+      "has_osmium": "2020-03-31 20:44:40 +0300"
     },
     "done": true
   },
@@ -2660,12 +2206,6 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/oak_palisade": {
-    "criteria": {
-      "has_log": "2020-03-31 11:46:31 +0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
@@ -2684,33 +2224,15 @@
     },
     "done": true
   },
-  "mekanismtools:recipes/mekanism/stone_paxel": {
+  "mapperbase:recipes/mapperbase_group/steel_helmet": {
     "criteria": {
-      "has_stone_shovel": "2020-03-31 11:51:44 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_the_recipe": "2020-03-31 12:45:41 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
   "embellishcraft:recipes/embellishcraft_group/pink_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/iron_dark_oak_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/golden_oak_shovel": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
     },
     "done": true
   },
@@ -2726,12 +2248,6 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/birch_table": {
-    "criteria": {
-      "has_birch_slab": "2020-03-31 14:13:48 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/combat/iron_acacia_sword": {
     "criteria": {
       "has_material": "2020-03-31 11:41:32 +0300"
@@ -2744,9 +2260,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/acacia_palisade": {
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_ore_blasting": {
     "criteria": {
-      "has_log": "2020-03-31 11:39:32 +0300"
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
@@ -2768,21 +2290,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/iron_acacia_hoe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/golden_oak_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
     },
     "done": true
   },
@@ -2792,9 +2302,2605 @@
     },
     "done": true
   },
+  "mekanism:recipes/infusion_conversion/redstone/from_dust": {
+    "criteria": {
+      "has_redstone_dust": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/stone_spruce_hoe": {
     "criteria": {
       "has_material": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ore/from_dust": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/stone_jungle_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/boots": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/stone_spruce_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ore/from_dust": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/slurry/dirty": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/pickaxe": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2020-03-31 23:03:27 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/white_blue_wallpaper": {
+    "criteria": {
+      "has_paper": "2020-03-31 23:20:20 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/red_acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/slate_cobblestone_wall": {
+    "criteria": {
+      "has_slate_cobblestone": "2020-03-31 20:03:23 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/transmitter/mechanical_pipe/basic": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/green_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/stone_pillar": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/lime_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/brown_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/iron/dust/from_ore": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/iron_beam": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_fancy_door": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/crystal/from_slurry": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/purple_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/dust/from_ore": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/iron_birch_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_acacia_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/slurry/clean": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_spruce_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2020-03-31 17:11:19 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/storage_blocks/copper": {
+    "criteria": {
+      "has_copper": "2020-03-31 20:44:41 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/marble_cobblestone_stairs": {
+    "criteria": {
+      "has_marble_cobblestone": "2020-03-31 19:52:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/smooth_diorite_from_smelting": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:47:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_the_recipe": "2020-03-31 12:45:30 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/chestplate": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/bitumen_block": {
+    "criteria": {
+      "has_raw_bitumen": "2020-04-01 01:28:16 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/spruce_table": {
+    "criteria": {
+      "has_spruce_slab": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/red_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_oak_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/smooth_basalt_from_smelting": {
+    "criteria": {
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_table": {
+    "criteria": {
+      "has_oak_slab": "2020-03-31 15:55:00 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_birch_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2020-03-31 21:18:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2020-03-31 23:05:26 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/transmitter/pressurized_tube/basic": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_spruce_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2020-03-31 11:51:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/storage_control_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/tools/axe": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/gas_tank/basic": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_wall": {
+    "criteria": {
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_oak_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/iron_paxel": {
+    "criteria": {
+      "has_iron_pickaxe": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_dark_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/transmitter/logistical_transporter/basic": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2020-03-31 11:42:09 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/dust/from_ore": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2020-03-31 11:40:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/shard/from_ore": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_fence_gate": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/golden_jungle_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_hoe": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/spruce_wooden_crate": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_pickaxe": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/iron/clump/from_ore": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/crystal/from_slurry": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-03-31 11:42:41 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_birch_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/marble_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_marble_cobblestone": "2020-03-31 19:52:17 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/transmitter/restrictive_transporter": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_dark_oak_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/transmitter/thermodynamic_conductor/basic": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/orange_acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/saturating_condenser": {
+    "criteria": {
+      "has_tin": "2020-03-31 20:44:39 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/redstone_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/spruce_fancy_door": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_nuggets": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/steel_wall_ladder": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_acacia_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/dust/from_dirty_dust": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_nuggets": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/boots": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/chestplate": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/fir_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/dynamic_tank": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/fluidplus_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/building_blocks/andesite_cobble": {
+    "criteria": {
+      "has_andesite": "2020-03-31 11:50:43 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/infusion_conversion/carbon/from_charcoal_block": {
+    "criteria": {
+      "has_charcoal_block": "2020-03-31 23:27:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/clock_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/gray_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/clump/from_ore": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_birch_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/osmium/armor/leggings": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/damaged_paving": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/acacia_suspended_stairs": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/iron/dirty_dust/from_clump": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-31 16:45:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_the_recipe": "2020-04-01 02:02:37 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2020-03-31 11:47:05 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/slate_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_slate_cobblestone": "2020-03-31 20:03:23 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/shovel": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_birch_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_spruce_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/chain": {
+    "criteria": {
+      "has_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/clump/from_shard": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/spruce_fancy_table": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-03-31 21:03:23 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_dark_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/light_gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/acacia_fancy_door": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2020-03-31 23:05:26 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_jungle_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/magenta_acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_cobblestone_stairs": {
+    "criteria": {
+      "has_basalt_cobblestone": "2020-03-31 20:10:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:pillager": "2020-03-31 21:11:32 +0300",
+      "minecraft:skeleton": "2020-03-31 21:03:23 +0300",
+      "minecraft:spider": "2020-03-31 23:05:25 +0300",
+      "minecraft:creeper": "2020-03-31 23:05:52 +0300",
+      "minecraft:zombie": "2020-03-31 23:00:16 +0300",
+      "minecraft:drowned": "2020-03-31 23:19:19 +0300"
+    },
+    "done": false
+  },
+  "embellishcraft:recipes/embellishcraft_group/gray_acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2020-03-31 11:47:22 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/tin/slurry/clean": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_seat": {
+    "criteria": {
+      "has_plank": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_birch_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/gold/dust/from_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/light_blue_acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/decorations/andesite_cobble": {
+    "criteria": {
+      "has_andesite": "2020-03-31 11:50:43 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_jungle_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/birch_palisade": {
+    "criteria": {
+      "has_log": "2020-03-31 11:47:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/larvikite_cobblestone_stairs": {
+    "criteria": {
+      "has_larvikite_cobblestone": "2020-04-01 01:28:53 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/iron/clump/from_shard": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_bricks": {
+    "criteria": {
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/dust/from_ingot": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_block": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_fancy_chest": {
+    "criteria": {
+      "has_chest": "2020-03-31 11:39:33 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/shard/from_crystal": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/umbran_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/tools/sword": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/iron/dust/from_ingot": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/brown_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_blue_flower": "2020-03-31 17:31:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_polished_diorite_stonecutting": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/birch_suspended_stairs": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "rftoolsbuilder:recipes/rftoolsbuilder/shape_card": {
+    "criteria": {
+      "iron_ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2020-03-31 17:31:37 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_chestplate": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/black_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/redstone/redstone_dust": {
+    "criteria": {
+      "has_quartz": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2020-03-31 11:41:53 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/birch_chair": {
+    "criteria": {
+      "has_birch_slab": "2020-03-31 14:13:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-03-31 11:49:37 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/redstone/quartz": {
+    "criteria": {
+      "has_quartz": "2020-04-01 01:56:13 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_jungle_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_plate": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_log": "2020-03-31 11:46:31 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/white_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/generator/wind": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/clump/from_shard": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/yellow_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/dust/from_ingot": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_boots": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/golden_oak_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/blue_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-03-31 23:05:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2020-03-31 21:03:24 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/dark_oak_terrace_chair": {
+    "criteria": {
+      "has_dark_oak_pressure_plate": "2020-03-31 17:39:58 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_suspended_stairs": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_dark_oak_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/building_blocks/oak_panels": {
+    "criteria": {
+      "has_slab": "2020-03-31 15:55:00 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_string": "2020-03-31 23:05:26 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_jungle_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/bar_panel": {
+    "criteria": {
+      "has_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/tools/axe": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_dust_blasting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:47:11 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/birch_terrace_table": {
+    "criteria": {
+      "has_birch_pressure_plate": "2020-03-31 17:40:42 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/turbine/blade": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_axe": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/armor/boots": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_boots": "2020-03-31 11:41:31 +0300",
+      "has_iron_pickaxe": "2020-03-31 11:41:32 +0300",
+      "has_iron_chestplate": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_nugget_from_ingot": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/flatter_hammer": {
+    "criteria": {
+      "has_stick": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2020-03-31 21:03:23 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_block": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:47:11 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/decorations/stone_cobble": {
+    "criteria": {
+      "has_stone": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/cyan_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/slurry/dirty": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/building_blocks/diorite_cobble": {
+    "criteria": {
+      "has_diorite": "2020-03-31 15:35:03 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_birch_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_ore_blasting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:jungle_edge": "2020-03-31 23:12:29 +0300",
+      "minecraft:forest": "2020-03-31 12:03:55 +0300",
+      "minecraft:taiga": "2020-03-31 11:35:56 +0300",
+      "minecraft:taiga_hills": "2020-03-31 11:35:23 +0300",
+      "minecraft:jungle": "2020-03-31 23:12:31 +0300",
+      "minecraft:jungle_hills": "2020-03-31 23:13:24 +0300",
+      "minecraft:warm_ocean": "2020-03-31 23:17:50 +0300",
+      "minecraft:deep_lukewarm_ocean": "2020-03-31 23:17:30 +0300",
+      "minecraft:beach": "2020-03-31 22:59:44 +0300",
+      "minecraft:river": "2020-03-31 23:12:27 +0300",
+      "minecraft:lukewarm_ocean": "2020-03-31 23:14:00 +0300",
+      "minecraft:wooded_hills": "2020-03-31 11:46:29 +0300",
+      "minecraft:plains": "2020-03-31 11:37:49 +0300"
+    },
+    "done": false
+  },
+  "embellishcraft:recipes/embellishcraft_group/acacia_fancy_chest": {
+    "criteria": {
+      "has_chest": "2020-03-31 11:39:33 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/tools/sword": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_spruce_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2020-03-31 16:48:27 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2020-03-31 23:03:27 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/energyplus_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-31 17:31:42 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/nuggets/steel": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_spruce_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/nuggets/copper": {
+    "criteria": {
+      "has_copper": "2020-03-31 20:44:41 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2020-03-31 17:31:43 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/nuggets/tin": {
+    "criteria": {
+      "has_tin": "2020-03-31 20:44:39 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/light_gray_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/copper/slurry/dirty": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/gold/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/larvikite_from_cobblestone_smelting": {
+    "criteria": {
+      "has_larvikite_cobblestone": "2020-04-01 01:28:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core1": {
+    "criteria": {
+      "core": "2020-03-31 23:39:12 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/white_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core3": {
+    "criteria": {
+      "core": "2020-03-31 23:54:59 +0300"
+    },
+    "done": true
+  },
+  "rftoolspower:recipes/rftoolspower/power_core2": {
+    "criteria": {
+      "core": "2020-03-31 23:54:59 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/spruce_chair": {
+    "criteria": {
+      "has_spruce_slab": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/iron/slurry/dirty": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/misc/processing/iron/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/coal/to_dust": {
+    "criteria": {
+      "has_coal": "2020-03-31 20:02:26 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_button": {
+    "criteria": {
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2020-03-31 23:13:05 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/fluid_tank/basic": {
+    "criteria": {
+      "has_basic_alloy": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/building_blocks/processing/redstone/to_ore": {
+    "criteria": {
+      "has_redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/yellow_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_diamond": {
+    "criteria": {
+      "shard": "2020-03-31 23:37:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_stairs": {
+    "criteria": {
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/stone_acacia_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/green_spruce_fancy_bed": {
+    "criteria": {
+      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/shard/from_crystal": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_chair": {
+    "criteria": {
+      "has_oak_slab": "2020-03-31 15:55:00 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_acacia_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:36 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/iron/shard/from_ore": {
+    "criteria": {
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_sword": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2020-04-01 01:43:44 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/clump/from_ore": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_ore_smelting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/tin/ingot/from_ore_smelting": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2020-03-31 19:58:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:47:11 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_acacia_planks": {
+    "criteria": {
+      "has_ingredient": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/air_duct": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_jungle_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/gold/shard/from_ore": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_acacia_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/diorite_paving": {
+    "criteria": {
+      "has_polished_diorite": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2020-04-01 01:56:13 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_oak_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "sweet_berries": "2020-04-01 00:00:43 +0300",
+      "apple": "2020-03-31 19:53:00 +0300",
+      "carrot": "2020-03-31 19:46:24 +0300"
+    },
+    "done": false
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/gray_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_jungle_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/magic_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_ingot_from_blasting": {
+    "criteria": {
+      "has_iron_ingot": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_oak_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/nuggets/osmium": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_spruce_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/metallurgic_infuser": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2020-03-31 19:58:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2020-03-31 23:03:27 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/decorations/granite_cobble": {
+    "criteria": {
+      "has_granite": "2020-03-31 15:35:04 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2020-03-31 17:28:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2020-04-01 01:56:13 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/decorations/stone_stone": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-01 01:36:31 +0300"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/inventory_module": {
+    "criteria": {
+      "ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/gold/slurry/dirty": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/birch_fancy_chest": {
+    "criteria": {
+      "has_chest": "2020-03-31 11:39:33 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/cyan_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/birch_fancy_table": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/building_blocks/block_chain_iron": {
+    "criteria": {
+      "has_iron": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/spruce_palisade": {
+    "criteria": {
+      "has_log": "2020-03-31 11:41:53 +0300"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
+    "criteria": {
+      "shard": "2020-03-31 23:37:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2020-03-31 19:46:24 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/steel_rod": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/marble_from_cobblestone_smelting": {
+    "criteria": {
+      "has_marble_cobblestone": "2020-03-31 19:52:17 +0300"
+    },
+    "done": true
+  },
+  "stairway:recipes/building_blocks/stone_stone": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/beige_wallpaper": {
+    "criteria": {
+      "has_paper": "2020-03-31 23:20:20 +0300"
+    },
+    "done": true
+  },
+  "mekanismgenerators:recipes/mekanism/turbine/rotor": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/bronze/dust/from_ingot": {
+    "criteria": {
+      "has_tin": "2020-03-31 20:44:39 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_spruce_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_support": {
+    "criteria": {
+      "has_plank": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_ore_smelting": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_spruce_planks": {
+    "criteria": {
+      "has_ingredient": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/light_gray_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_jungle_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-31 12:45:45 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/light_gray_acacia_fancy_bed": {
+    "criteria": {
+      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/shard/from_ore": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_acacia_hoe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/storage_blocks/steel": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/diamond_jungle_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/purple_birch_fancy_bed": {
+    "criteria": {
+      "has_birch_planks": "2020-03-31 12:33:01 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/pink_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/larvikite_cobblestone_pressure_plate": {
+    "criteria": {
+      "has_larvikite_cobblestone": "2020-04-01 01:28:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2020-03-31 14:39:22 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/golden_dark_oak_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/oak_fancy_table": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-04-01 01:36:31 +0300"
+    },
+    "done": true
+  },
+  "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
+    "criteria": {
+      "redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/orange_oak_fancy_bed": {
+    "criteria": {
+      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/combat/diamond_acacia_sword": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2020-03-31 11:40:19 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:48:25 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/armor/chestplate": {
+    "criteria": {
+      "has_steel": "2020-04-01 02:05:53 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2020-03-31 23:05:26 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/stone_oak_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/copper/ingot/from_dust_smelting": {
+    "criteria": {
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/decorations/acacia_wall": {
+    "criteria": {
+      "has_log": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/storage_blocks/osmium": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_birch_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2020-03-31 11:37:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2020-03-31 14:48:07 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-31 11:51:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2020-03-31 20:02:26 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/processing/osmium/slurry/clean": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2020-03-31 11:50:35 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/gneiss_cobblestone_wall": {
+    "criteria": {
+      "has_gneiss_cobblestone": "2020-03-31 20:02:38 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/oak_palisade": {
+    "criteria": {
+      "has_log": "2020-03-31 11:46:31 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2020-03-31 23:19:20 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:47:11 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/stone_paxel": {
+    "criteria": {
+      "has_stone_shovel": "2020-03-31 11:51:44 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_the_recipe": "2020-03-31 12:45:41 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/iron_dark_oak_pickaxe": {
+    "criteria": {
+      "has_material": "2020-03-31 11:41:31 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_oak_shovel": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/building_blocks/processing/gold/ore/from_dust": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/birch_table": {
+    "criteria": {
+      "has_birch_slab": "2020-03-31 14:13:48 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/basalt_pressure_plate": {
+    "criteria": {
+      "has_basalt": "2020-04-01 01:36:10 +0300"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/acacia_palisade": {
+    "criteria": {
+      "has_log": "2020-03-31 11:39:32 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2020-03-31 14:48:26 +0300"
+    },
+    "done": true
+  },
+  "ilikewood:recipes/tools/golden_oak_axe": {
+    "criteria": {
+      "has_material": "2020-03-31 17:28:51 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/steel/nugget_from_smelting": {
+    "criteria": {
+      "has_steel_helmet": "2020-04-01 02:06:22 +0300",
+      "has_steel_boots": "2020-04-01 02:06:22 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/lapis_lazuli/armor/leggings": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-31 20:41:50 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/osmium/dirty_dust/from_clump": {
+    "criteria": {
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
     },
     "done": true
   },
@@ -2810,27 +4916,34 @@
     },
     "done": true
   },
+  "mekanismtools:recipes/mekanism/steel/tools/paxel": {
+    "criteria": {
+      "has_steel_pickaxe": "2020-04-01 02:09:59 +0300",
+      "has_steel_axe": "2020-04-01 02:09:59 +0300"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_spruce_axe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/combat/stone_jungle_sword": {
+  "mekanism:recipes/mekanism/processing/copper/shard/from_ore": {
     "criteria": {
-      "has_material": "2020-03-31 11:50:36 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/combat/stone_spruce_sword": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:35 +0300"
+      "has_copper_ore": "2020-03-31 20:10:23 +0300"
     },
     "done": true
   },
   "embellishcraft:recipes/embellishcraft_group/purple_oak_fancy_bed": {
     "criteria": {
       "has_oak_planks": "2020-03-31 12:43:49 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/diorite_button": {
+    "criteria": {
+      "has_diorite": "2020-04-03 19:47:11 +0300"
     },
     "done": true
   },
@@ -2858,9 +4971,9 @@
     },
     "done": true
   },
-  "rftoolsutility:recipes/rftoolsutility/machineinformation_module": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "ingot": "2020-03-31 11:41:31 +0300"
+      "has_redstone": "2020-03-31 20:52:06 +0300"
     },
     "done": true
   },
@@ -2870,21 +4983,57 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/red_acacia_fancy_bed": {
+  "mekanism:recipes/mekanism/structural_glass": {
     "criteria": {
-      "has_acacia_planks": "2020-03-31 11:51:17 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
+  "mekanism:recipes/mekanism/processing/osmium/ingot/from_block": {
     "criteria": {
-      "ingot": "2020-03-31 11:41:31 +0300"
+      "has_osmium_ore": "2020-03-31 20:02:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2020-04-01 01:56:13 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt4": {
+    "criteria": {
+      "has_raw_bitumen": "2020-04-01 01:28:16 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt2": {
+    "criteria": {
+      "has_raw_bitumen": "2020-04-01 01:28:16 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt3": {
+    "criteria": {
+      "has_raw_bitumen": "2020-04-01 01:28:16 +0300"
+    },
+    "done": true
+  },
+  "mapperbase:recipes/mapperbase_group/asphalt1": {
+    "criteria": {
+      "has_raw_bitumen": "2020-04-01 01:28:16 +0300"
     },
     "done": true
   },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2020-03-31 11:41:32 +0300"
+    },
+    "done": true
+  },
+  "mekanismtools:recipes/mekanism/diamond_paxel": {
+    "criteria": {
+      "has_diamond_pickaxe": "2020-03-31 23:42:14 +0300"
     },
     "done": true
   },
@@ -2900,27 +5049,15 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/green_birch_fancy_bed": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/lime_oak_fancy_bed": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
   "mekanismgenerators:recipes/mekanism/generator/heat": {
     "criteria": {
       "has_furnace": "2020-03-31 11:51:53 +0300"
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/brown_oak_fancy_bed": {
+  "embellishcraft:recipes/embellishcraft_group/pink_wallpaper": {
     "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
+      "has_paper": "2020-03-31 23:20:20 +0300"
     },
     "done": true
   },
@@ -2942,27 +5079,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
-    "criteria": {
-      "has_planks": "2020-03-31 12:43:49 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/iron_beam": {
-    "criteria": {
-      "has_iron_ingot": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/building_blocks/spruce_panels": {
     "criteria": {
       "has_slab": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/oak_fancy_door": {
-    "criteria": {
-      "has_oak_planks": "2020-03-31 12:43:49 +0300"
     },
     "done": true
   },
@@ -2972,9 +5091,9 @@
     },
     "done": true
   },
-  "embellishcraft:recipes/embellishcraft_group/purple_spruce_fancy_bed": {
+  "mekanism:recipes/building_blocks/processing/iron/ore/from_dust": {
     "criteria": {
-      "has_spruce_planks": "2020-03-31 12:45:45 +0300"
+      "has_iron_ore": "2020-03-31 20:02:12 +0300"
     },
     "done": true
   },
@@ -2984,27 +5103,15 @@
     },
     "done": true
   },
-  "ilikewood:recipes/combat/iron_birch_sword": {
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/stone_acacia_hoe": {
-    "criteria": {
-      "has_material": "2020-03-31 11:50:36 +0300"
+      "has_stone": "2020-04-01 00:11:10 +0300"
     },
     "done": true
   },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/golden_spruce_pickaxe": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
     },
     "done": true
   },
@@ -3020,21 +5127,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
+  "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
-      "has_carrot": "2020-03-31 17:11:19 +0300"
+      "has_quartz": "2020-04-01 01:56:13 +0300"
     },
     "done": true
   },
-  "ilikewood:recipes/tools/iron_spruce_hoe": {
+  "embellishcraft:recipes/embellishcraft_group/steel_door": {
     "criteria": {
-      "has_material": "2020-03-31 11:41:32 +0300"
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "embellishcraft:recipes/embellishcraft_group/basalt_cobblestone_pressure_plate": {
     "criteria": {
-      "has_planks": "2020-03-31 12:33:01 +0300"
+      "has_basalt_cobblestone": "2020-03-31 20:10:01 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/steel_beam": {
+    "criteria": {
+      "has_steel_ingot": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
@@ -3044,27 +5157,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2020-03-31 20:52:06 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/processing/gold/dust/from_dirty_dust": {
+    "criteria": {
+      "has_gold_ore": "2020-03-31 20:50:18 +0300"
+    },
+    "done": true
+  },
+  "embellishcraft:recipes/embellishcraft_group/smooth_diorite_wall": {
+    "criteria": {
+      "has_smooth_diorite": "2020-04-03 19:49:22 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2020-04-01 00:11:10 +0300"
+    },
+    "done": true
+  },
+  "mekanism:recipes/mekanism/gauge_dropper": {
+    "criteria": {
+      "has_osmium": "2020-03-31 20:44:40 +0300"
+    },
+    "done": true
+  },
   "ilikewood:recipes/tools/diamond_acacia_axe": {
     "criteria": {
       "has_material": "2020-03-31 11:41:32 +0300"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_the_recipe": "2020-03-31 12:45:30 +0300"
-    },
-    "done": true
-  },
   "ilikewood:recipes/tools/golden_spruce_shovel": {
     "criteria": {
       "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2020-03-31 14:48:26 +0300"
     },
     "done": true
   },
@@ -3080,6 +5211,12 @@
     },
     "done": true
   },
+  "mekanism:recipes/mekanism/processing/tin/shard/from_crystal": {
+    "criteria": {
+      "has_tin_ore": "2020-03-31 20:02:55 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-31 14:48:07 +0300"
@@ -3089,24 +5226,6 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/spruce_table": {
-    "criteria": {
-      "has_spruce_slab": "2020-03-31 12:45:45 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/red_birch_fancy_bed": {
-    "criteria": {
-      "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/combat/diamond_oak_sword": {
-    "criteria": {
-      "has_material": "2020-03-31 11:41:31 +0300"
     },
     "done": true
   },
@@ -3122,27 +5241,15 @@
     },
     "done": true
   },
-  "planttech2:unlock_all": {
+  "mapperbase:recipes/mapperbase_group/steel_leggings": {
     "criteria": {
-      "has_iron": "2020-03-31 11:41:31 +0300"
+      "has_steel": "2020-04-01 02:05:53 +0300"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "embellishcraft:recipes/embellishcraft_group/gneiss_cobblestone_stairs": {
     "criteria": {
-      "iron": "2020-03-31 11:41:31 +0300"
-    },
-    "done": true
-  },
-  "ilikewood:recipes/tools/golden_birch_axe": {
-    "criteria": {
-      "has_material": "2020-03-31 17:28:51 +0300"
-    },
-    "done": true
-  },
-  "embellishcraft:recipes/embellishcraft_group/oak_table": {
-    "criteria": {
-      "has_oak_slab": "2020-03-31 15:55:00 +0300"
+      "has_gneiss_cobblestone": "2020-03-31 20:02:38 +0300"
     },
     "done": true
   },
@@ -3155,12 +5262,6 @@
   "embellishcraft:recipes/embellishcraft_group/white_birch_fancy_bed": {
     "criteria": {
       "has_birch_planks": "2020-03-31 12:33:01 +0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/pink_stained_glass": {
-    "criteria": {
-      "has_glass": "2020-03-31 14:48:07 +0300"
     },
     "done": true
   },
